@@ -1,11 +1,11 @@
-# Day 004: वचनत्रयम् प्रश्नाव्ययानि च (Number Agreement & Daily Questions)
+# Day 004: वचनत्रयम् प्रश्नाव्ययानि च (Number Agreement, Questions & Market Food Vlog)
 
 Welcome to Day 4! One of Sanskrit's most distinctive features is its **threefold number system** (*Vacanatrayam*):
 1. **एकवचनम् (Ekavacanam)**: Singular (one entity)
 2. **द्विवचनम् (Dvivacanam)**: Dual (exactly two entities)
 3. **बहुवचनम् (Bahuvacanam)**: Plural (three or more entities)
 
-Today, we will learn how nouns, pronouns, and verbs transform across all three numbers, and how to master **the 6 essential Question Words** for daily inquiry and conversation.
+Today, we will learn how nouns, pronouns, and verbs transform across all three numbers, master **the 6 essential Question Words**, and practice a real-life **Street Food & Market Shopping Vlog Script** (*आपण-भ्रमणम्*).
 
 ---
 
@@ -60,9 +60,9 @@ Read this conversation at the school grounds (*विद्यालय-प्�
 
 ---
 
-## 🗣️ व्यावहारिक-सम्भाषणम् (Asking Daily Life Questions & Shopping)
+## 🗣️ व्यावहारिक-सम्भाषणम्: प्रश्नाव्ययानि (Daily Inquiry & Shopping)
 
-In daily life, questioning is the heart of fluent conversation. Master these 6 core question tools:
+In daily life, questioning is the heart of fluent communication:
 
 ### 1. The 6 Master Sanskrit Question Words (षट्-प्रश्नाव्ययानि)
 
@@ -77,38 +77,30 @@ In daily life, questioning is the heart of fluent conversation. Master these 6 c
 
 ---
 
-### 2. Conversational Mini-Dialogues for Day-to-Day Inquiry
+## 🎥 व्लॉगिङ्ग्-संस्कृतम्: आपण-भ्रमणम् (Market Tour & Street Food Vlog)
 
-#### Scenario A: Asking Directions on the Street (मार्ग-पृच्छा)
-* **पथिकः (Traveler):** भो महोदय! क्षम्यताम्। ग्रन्थालयः (library) **कुत्र** अस्ति?
-  > *Bho mahodaya! Kṣamyatām. Granthālayaḥ kutra asti?*
-  > *Excuse me sir! Where is the library?*
-* **नागरिकः (Citizen):** ग्रन्थालयः पुरतः (ahead) अस्ति।
-  > *Granthālayaḥ purataḥ asti.*
-  > *The library is straight ahead.*
-* **पथिकः:** सः **कदा** उद्घाट्यते (opens)?
-  > *Saḥ kadā udghāṭyate?*
-  > *When does it open?*
-* **नागरिकः:** सः प्रातः नववादने (at 9 AM) उद्घाट्यते।
-  > *Saḥ prātaḥ navavādane udghāṭyate.*
-  > *It opens at 9 o'clock in the morning.*
-* **पथिकः:** बहु धन्यवादः!
-  > *Bahu dhanyavādaḥ!*
-  > *Thank you very much!*
+Filming an outdoor food tour or marketplace shopping vlog? Here is an authentic spoken Sanskrit creator script:
 
-#### Scenario B: In the Market / Shopping (आपणे क्रयणम्)
-* **ग्राहकः (Customer):** भ्रातः! एतेषां फलानां मूल्यं **कति**?
-  > *Bhrātaḥ! Eteṣāṃ phalānāṃ mūlyaṃ kati?*
-  > *Brother! How much is the price of these fruits?*
-* **आपणिकः (Shopkeeper):** दश रूप्यकाणि (10 Rupees).
-  > *Daśa rūpyakāṇi.*
-  > *Ten rupees.*
-* **ग्राहकः:** पञ्च फलानि ददातु।
-  > *Pañca phalāni dadātu.*
-  > *Please give five fruits.*
-* **आपणिकः:** स्वीकरोतु। धन्यवादः!
-  > *Svīkarotu. Dhanyavādaḥ!*
-  > *Please take them. Thank you!*
+### 1. Market Tour Speaking Script (दृश्य-वृत्तान्तः)
+
+> **"भो दर्शकाः! अद्यतन-दृश्यवृत्तान्ते वयम् आपण-भ्रमणं (market tour) कुर्मः!"**
+> *Bho darśakāḥ! Adyatana-dṛśyavṛttānte vayam āpaṇa-bhramaṇaṃ kurmaḥ!*
+> **"Hey viewers! In today's vlog we are going on a market tour!"**
+
+> **"पश्यन्तु, अत्र कति आपणाः सन्ति! (Look how many shops are here!)"**
+> *Paśyantu, atra kati āpaṇāḥ santi!*
+
+> **"वयम् इदानीं फल-विक्रेतुः समीपम् गच्छामः। भ्रातः! एतस्य फलस्य मूल्यं कति?"**
+> *Vayam idānīṃ phala-vikretuḥ samīpam gacchāmaḥ. Bhrātaḥ! Etasya phalasya mūlyaṃ kati?*
+> **"Now we are approaching the fruit vendor. Brother! What is the price of this fruit?"**
+
+> **"अहो! अत्र स्वादिष्टं खाद्यम् अस्ति! कियत् रुचिकरम् (delicious)!"**
+> *Aho! Atra svādiṣṭaṃ khādyam asti! Kiyat rucikaram!*
+> **"Wow! Delicious food is here! How tasty!"**
+
+> **"भवते एतत् खाद्यं रोचते वा? कृपया टिप्पणीं (comment) लिखन्तु!"**
+> *Bhavate etat khādyaṃ rocate vā? Kṛpayā ṭippaṇīṃ likhantu!*
+> **"Do you like this food? Please leave a comment!"**
 
 ---
 
@@ -131,42 +123,37 @@ In daily life, questioning is the heart of fluent conversation. Master these 6 c
 | Devanāgarī | IAST | Category | English Meaning |
 | :--- | :--- | :--- | :--- |
 | **बहिः** | bahiḥ | Indeclinable (Avyaya) | outside |
+| **दर्शकः** | darśakaḥ | Noun (Masc.) | viewer / spectator |
 | **दशवादने** | daśavādane | Time phrase | at 10 o'clock |
 | **द्वे** | dve | Number (Fem./Neut. Dual) | two |
+| **खाद्यम्** | khādyam | Noun (Neut.) | food / eatables |
 | **कदा** | kadā | Question Word (Avyaya) | when? |
 | **कति** | kati | Question Word (Avyaya) | how many / how much? |
 | **किमर्थम्** | kimartham | Question Word (Avyaya) | why? / for what purpose? |
 | **कुत्र** | kutra | Question Word (Avyaya) | where? |
-| **क्रीडाङ्गणम्** | krīḍāṅgaṇam | Noun (Neut.) | playground / sports ground |
 | **मूल्यम्** | mūlyam | Noun (Neut.) | price / cost |
 | **पञ्च** | pañca | Number | five |
 | **पाठः** | pāṭhaḥ | Noun (Masc.) | lesson / lecture / class |
+| **रुचिकरम्** | rucikaram | Adjective (Neut.) | delicious / tasty |
 | **रूप्यकाणि** | rūpyakāṇi | Noun (Neut. Plural) | rupees / currency |
 | **सन्ति** | santi | Verb (3rd Plural of *as*) | [they] are / exist |
 | **शिक्षकः** | śikṣakaḥ | Noun (Masc.) | teacher (male) |
 | **स्तः** | staḥ | Verb (3rd Dual of *as*) | [the two] are |
 | **उत्तमम्** | uttamam | Adjective / Interjection | excellent / very good |
-| **विलम्बः** | vilambaḥ | Noun (Masc.) | delay / lateness |
 
 ---
 
-## 💡 व्याकरण-विशेषः (Grammatical Notes)
+## 💡 व्याकरण-विशेषः (Number Grid Across Nouns & Verbs)
 
-### 1. The Three Numbers Across Nouns (वचन-रूपाणि)
+### 1. Nouns Across 3 Numbers:
+* **Masc**: बालकः (1) $\rightarrow$ बालकौ (2) $\rightarrow$ बालकाः (3+)
+* **Fem**: बालिका (1) $\rightarrow$ बालिके (2) $\rightarrow$ बालिकाः (3+)
+* **Neut**: फलम् (1) $\rightarrow$ फले (2) $\rightarrow$ फलानि (3+)
 
-| Gender | Base Stem | Singular (एकवचनम्) | Dual (द्विवचनम्) | Plural (बहुवचनम्) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Masc (-a)** | बालक (bālaka) | **बालकः** (1 boy) | **बालकौ** (2 boys) | **बालकाः** (boys) |
-| **Fem (-ā)** | बालिका (bālikā) | **बालिका** (1 girl) | **बालिके** (2 girls) | **बालिकाः** (girls) |
-| **Neut (-a)** | फल (phala) | **फलम्** (1 fruit) | **फले** (2 fruits) | **फलानि** (fruits) |
-
-### 2. Verb Agreement in 3rd Person (प्रथमपुरुषः)
-
-| Singular Subject $\rightarrow$ **-ति** | Dual Subject $\rightarrow$ **-तः** | Plural Subject $\rightarrow$ **-न्ति** |
-| :--- | :--- | :--- |
-| **बालकः पठति** (*One boy reads*) | **बालकौ पठतः** (*Two boys read*) | **बालकाः पठन्ति** (*Boys read*) |
-| **बालिका खेलति** (*One girl plays*) | **बालिके खेलतः** (*Two girls play*) | **बालिकाः खेलन्ति** (*Girls play*) |
-| **फलम् पतति** (*One fruit falls*) | **फले पततः** (*Two fruits fall*) | **फलानि पतन्ति** (*Fruits fall*) |
+### 2. Verbs Across 3 Numbers:
+* **Singular**: बालकः **पठति** (*One boy reads*)
+* **Dual**: बालकौ **पठतः** (*Two boys read*)
+* **Plural**: बालकाः **पठन्ति** (*Boys read*)
 
 ---
 
@@ -179,11 +166,11 @@ In daily life, questioning is the heart of fluent conversation. Master these 6 c
 4. द्वे बालिके पुस्तकम् _________।
 5. सर्वे बालकाः _________।
 
-### Exercise 2: Form everyday questions in Sanskrit
-1. "Where is the shop?" (Use *kutra*)
-2. "How much is the cost?" (Use *kati*)
-3. "When is the train arriving?" (Use *kadā*)
-4. "Why are you late?" (Use *kimartham*)
+### Exercise 2: Form everyday questions in Sanskrit for Spoken & Vlogging Practice
+1. "Where is the fruit market?" (Use *kutra*)
+2. "How much is the cost of this food?" (Use *kati*)
+3. "When will the shop open?" (Use *kadā*)
+4. "Why is everyone joyful?" (Use *kimartham*)
 
 ---
 
@@ -197,7 +184,7 @@ In daily life, questioning is the heart of fluent conversation. Master these 6 c
 5. सर्वे बालकाः **पठन्ति**।
 
 ### Answers to Exercise 2:
-1. **आपणः कुत्र अस्ति?** (*Āpaṇaḥ kutra asti?*)
-2. **मूल्यं कति अस्ति?** (*Mūlyaṃ kati asti?*)
-3. **रेलयानं कदा आगच्छति?** (*Relayānaṃ kadā āgacchati?*)
-4. **भवान् किमर्थम् विलम्बेन आगच्छति?** (*Bhavān kimartham vilambena āgacchati?*)
+1. **फल-विपणिका कुत्र अस्ति?** (*Phala-vipaṇikā kutra asti?*)
+2. **अस्य खाद्यस्य मूल्यं कति?** (*Asya khādyasya mūlyaṃ kati?*)
+3. **आपणः कदा उद्घाट्यते?** (*Āpaṇaḥ kadā udghāṭyate?*)
+4. **सर्वे किमर्थम् प्रसन्नाः सन्ति?** (*Sarve kimartham prasannāḥ santi?*)

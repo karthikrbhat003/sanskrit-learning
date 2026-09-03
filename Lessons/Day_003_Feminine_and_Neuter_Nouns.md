@@ -1,6 +1,6 @@
-# Day 003: स्त्रीलिङ्ग-नपुंसकलिङ्ग-शब्दाः (Feminine & Neuter Nouns in Daily Life)
+# Day 003: स्त्रीलिङ्ग-नपुंसकलिङ्ग-शब्दाः (Feminine & Neuter Nouns & Room Tour Vlog)
 
-Welcome to Day 3 of your Sanskrit journey! Today, we expand our spoken world to **Feminine** (*Strīliṅga*) and **Neuter** (*Napuṃsakaliṅga*) nouns, along with everyday household objects, family relations, and matching demonstrative pronouns (*eṣaḥ / eṣā / etat*).
+Welcome to Day 3 of your Sanskrit journey! Today, we expand our spoken world to **Feminine** (*Strīliṅga*) and **Neuter** (*Napuṃsakaliṅga*) nouns, household objects, technical gear, and matching demonstrative pronouns (*eṣaḥ / eṣā / etat*), including a practical **Room Tour & Studio Desk Setup Vlog script** (*प्रकोष्ठ-प्रदर्शनम्*).
 
 ---
 
@@ -49,15 +49,15 @@ Read the following description of a serene garden (*वाटिका*) and sch
 
 ---
 
-## 🗣️ व्यावहारिक-सम्भाषणम् (Everyday Objects & Spoken Sanskrit)
+## 🗣️ व्यावहारिक-सम्भाषणम्: दैनिक-वस्तूनि (Everyday Objects & Spoken Sanskrit)
 
-In our homes and offices, we constantly refer to various objects around us. Here is how you identify common daily objects in Sanskrit:
+In our homes and workplaces, we constantly refer to objects around us. Here is how you identify them:
 
 ### 1. Household & Personal Objects (दैनिक-वस्तूनि)
 
 | Category | Sanskrit Word | IAST | English Meaning | Spoken Sanskrit Example |
 | :--- | :--- | :--- | :--- | :--- |
-| **Feminine (-ā)** | **उत्पीठिका** | *utpīṭhikā* | Table | उत्पीठिका अत्र अस्ति। (The table is here.) |
+| **Feminine (-ā)** | **उत्पीठिका** | *utpīṭhikā* | Table / Desk | उत्पीठिका अत्र अस्ति। (The table is here.) |
 | **Feminine (-ā)** | **मापिका** | *māpikā* | Ruler / Scale | एषा मापिका। (This is a ruler.) |
 | **Feminine (-ā)** | **द्विचक्रिका** | *dvicakrikā* | Bicycle | सा द्विचक्रिका। (That is a bicycle.) |
 | **Feminine (-ī)** | **घटी** | *ghaṭī* | Clock / Watch | घटी समयं दर्शयति। (The clock shows time.) |
@@ -66,40 +66,36 @@ In our homes and offices, we constantly refer to various objects around us. Here
 | **Neuter (-m)** | **व्यजनम्** | *vyajanam* | Fan | व्यजनं भ्रमति। (The fan is rotating.) |
 | **Neuter (-m)** | **द्वारम्** | *dvāram* | Door | द्वारम् उद्घाटयतु। (Please open the door.) |
 | **Neuter (-m)** | **वातायनम्** | *vātāyanam* | Window | वातायनम् पिदधातु। (Please close the window.) |
-| **Neuter (-m)** | **सङ्गणकम्** | *saṅgaṇakam* | Computer | एतत् सङ्गणकम्। (This is a computer.) |
-| **Neuter (-m)** | **दूरवाणी** | *dūravāṇī* | Telephone / Phone | दूरवाणी ध्वनति। (The phone is ringing.) |
+| **Neuter (-m)** | **सङ्गणकम्** | *saṅgaṇakam* | Computer / Laptop | एतत् सङ्गणकम्। (This is a computer.) |
+| **Neuter (-m)** | **दूरवाणी** | *dūravāṇī* | Telephone / Mobile Phone | दूरवाणी ध्वनति। (The phone is ringing.) |
 
 ---
 
-### 2. Conversational Mini-Dialogues for Daily Life
+## 🎥 व्लॉगिङ्ग्-संस्कृतम्: प्रकोष्ठ-प्रदर्शनम् (Room Tour & Desk Setup Vlog)
 
-#### Scenario A: Locating Items in the Room (वस्तूनाम् अन्वेषणम्)
-* **भ्राता (Brother):** भगिनि! मम लेखनी कुत्र अस्ति?
-  > *Bhagini! Mama lekhanī kutra asti?*
-  > *Sister! Where is my pen?*
-* **भगिनी (Sister):** तव लेखनी उत्पीठिकायाम् (on the table) अस्ति।
-  > *Tava lekhanī utpīṭhikāyām asti.*
-  > *Your pen is on the table.*
-* **भ्राता:** मम पुस्तकम् अपि तत्र अस्ति वा?
-  > *Mama pustakam api tatra asti vā?*
-  > *Is my book also there?*
-* **भगिनी:** आम्, पुस्तकम् अपि उत्पीठिकायाम् अस्ति।
-  > *Ām, pustakam api utpīṭhikāyām asti.*
-  > *Yes, the book is also on the table.*
+Use this complete speaking script when filming a room tour or studio setup in Sanskrit:
 
-#### Scenario B: Asking About Objects in the Room (एतत् किम्?)
-* **मित्रम् १:** एतत् किम्?
-  > *Etat kim?*
-  > *What is this? (pointing to a computer)*
-* **मित्रम् २:** एतत् सङ्गणकम्। एतेन अहम् कार्यं करोमि।
-  > *Etat saṅgaṇakam. Etena aham kāryaṃ karomi.*
-  > *This is a computer. With this I do my work.*
-* **मित्रम् १:** सा का?
-  > *Sā kā?*
-  > *What is that? (pointing to a clock)*
-* **मित्रम् २:** सा घटी। सा समयं सूचयति।
-  > *Sā ghaṭī. Sā samayaṃ sūcayati.*
-  > *That is a clock. It indicates time.*
+### 1. Studio / Room Tour Dialogue Script
+
+> **"भो मित्राणि! पश्यन्तु, एषः मम कार्य-प्रकोष्ठः (my workspace / room)!"**
+> *Bho mitrāṇi! Paśyantu, eṣaḥ mama kārya-prakoṣṭhaḥ!*
+> **"Hey friends! Look, this is my workspace / studio!"**
+
+> **"एषा मम उत्पीठिका (table), इदम् च मम आसनम् (chair)।"**
+> *Eṣā mama utpīṭhikā, idam ca mama āsanam.*
+> **"This is my table, and this is my chair."**
+
+> **"उत्पीठिकायाम् इदम् मम सङ्गणकम् (laptop) अस्ति। एषा मम जल-कूपी (water bottle)।"**
+> *Utpīṭhikāyām idam mama saṅgaṇakam asti. Eṣā mama jala-kūpī.*
+> **"On the table is my laptop. This is my water bottle."**
+
+> **"इदम् मम चलचित्राङ्कन-यन्त्रम् (camera)! एतेन अहम् दृश्यवृत्तान्तं रचयामि!"**
+> *Idam mama calacitrāṅkana-yantram! Etena aham dṛśyavṛttāntaṃ racayāmi!*
+> **"This is my camera! With this I create vlogs!"**
+
+> **"कथम् अस्ति मम प्रकोष्ठः? कृपया टिप्पणी-भागे (in comments) वदन्तु!"**
+> *Katham asti mama prakoṣṭhaḥ? Kṛpayā ṭippaṇī-bhāge vadantu!*
+> **"How is my room? Please tell in the comment section!"**
 
 ---
 
@@ -120,42 +116,30 @@ In our homes and offices, we constantly refer to various objects around us. Here
 | Devanāgarī | IAST | Category / Gender | English Meaning |
 | :--- | :--- | :--- | :--- |
 | **अध्यापिका** | adhyāpikā | Noun (Fem., $ā$-ending) | female teacher |
-| **अत्र** | atra | Indeclinable (Avyaya) | here |
+| **आसनम्** | āsanam | Noun (Neut.) | chair / seat |
 | **बालिका** | bālikā | Noun (Fem., $ā$-ending) | girl |
 | **भगिनी** | bhaginī | Noun (Fem., $ī$-ending) | sister |
-| **च** | ca | Indeclinable (Avyaya) | and (placed after words) |
+| **चलचित्राङ्कन-यन्त्रम्**| calacitrāṅkana-yantram| Noun (Neut.) | video camera |
 | **एषा** | eṣā | Pronoun (Fem. Nom. Sg.) | this (female, nearby) |
 | **एतत्** | etat | Pronoun (Neut. Nom. Sg.) | this (neuter object, nearby) |
 | **फलम्** | phalam | Noun (Neut., $a$-ending) | fruit |
 | **घटी** | ghaṭī | Noun (Fem., $ī$-ending) | clock / watch |
 | **गृहम्** | gṛham | Noun (Neut., $a$-ending) | house / home |
-| **हसति** | hasati | Verb (3rd Sg.) | laughs / smiles |
-| **जलम्** | jalam | Noun (Neut., $a$-ending) | water |
-| **जननी** | jananī | Noun (Fem., $ī$-ending) | mother |
-| **का** | kā | Interrogative Pronoun (Fem.) | who? (female) |
+| **जल-कूपी** | jala-kūpī | Noun (Fem., $ī$-ending) | water bottle |
 | **कुञ्चिका** | kuñcikā | Noun (Fem., $ā$-ending) | key |
-| **खेलति** | khelati | Verb (3rd Sg.) | plays |
 | **लेखनी** | lekhanī | Noun (Fem., $ī$-ending) | pen |
-| **लिखति** | likhati | Verb (3rd Sg.) | writes |
-| **नदी** | nadī | Noun (Fem., $ī$-ending) | river |
+| **प्रकोष्ठः** | prakoṣṭhaḥ | Noun (Masc.) | room / chamber / studio |
 | **पुष्पम्** | puṣpam | Noun (Neut., $a$-ending) | flower |
 | **पुस्तकम्** | pustakam | Noun (Neut., $a$-ending) | book |
-| **सङ्गणकम्** | saṅgaṇakam | Noun (Neut., $a$-ending) | computer |
-| **सुन्दरी** | sundarī | Adjective (Fem.) | beautiful |
-| **सुन्दरम्** | sundaram | Adjective (Neut.) | beautiful |
-| **तत्** | tat | Pronoun (Neut. Nom. Sg.) | that (neuter object, distant) |
-| **तत्र** | tatra | Indeclinable (Avyaya) | there |
-| **उत्पीठिका** | utpīṭhikā | Noun (Fem., $ā$-ending) | table |
-| **वाटिका** | vāṭikā | Noun (Fem., $ā$-ending) | garden |
+| **सङ्गणकम्** | saṅgaṇakam | Noun (Neut., $a$-ending) | computer / laptop |
+| **सुन्दरी / सुन्दरम्**| sundarī / sundaram | Adjective (Fem. / Neut.) | beautiful |
+| **उत्पीठिका** | utpīṭhikā | Noun (Fem., $ā$-ending) | table / desk |
+| **वातायनम्** | vātāyanam | Noun (Neut., $a$-ending) | window |
 | **व्यजनम्** | vyajanam | Noun (Neut., $a$-ending) | fan |
 
 ---
 
-## 💡 व्याकरण-विशेषः (Grammatical Notes)
-
-### Demonstrative & Interrogative Pronoun Master Grid
-
-Notice how the pronouns change across genders:
+## 💡 व्याकरण-विशेषः (Demonstrative & Interrogative Master Grid)
 
 | Gender | "This" (Nearby) | "That" (Distant) | "Who / What?" |
 | :--- | :--- | :--- | :--- |
@@ -172,13 +156,13 @@ Notice how the pronouns change across genders:
 2. _________ सङ्गणकम् अस्ति। (Computer is there)
 3. _________ घटी अस्ति। (Clock is there)
 4. _________ पुष्पम् विकसति। (Flower blooms)
-5. _________ अध्यापकः पाठयति। (Teacher teaches)
+5. _________ आसनम् अस्ति। (Chair is there)
 
-### Exercise 2: Translate into Sanskrit for Spoken Practice
-1. Where is the key? $\rightarrow$ The key is on the table.
-2. This is a computer.
-3. My sister reads a book.
-4. Is that a clock? $\rightarrow$ Yes, that is a clock.
+### Exercise 2: Translate into Sanskrit for Spoken & Vlogging Practice
+1. "Look, this is my table and this is my chair."
+2. "This is my video camera!"
+3. "Where is my water bottle? $\rightarrow$ It is on the table."
+4. "How is my room? Please comment!"
 
 ---
 
@@ -189,10 +173,10 @@ Notice how the pronouns change across genders:
 2. **एतत्** सङ्गणकम् अस्ति।
 3. **एषा** घटी अस्ति।
 4. **एतत्** पुष्पम् विकसति।
-5. **एषः** अध्यापकः पाठयति।
+5. **एतत्** आसनम् अस्ति।
 
 ### Answers to Exercise 2:
-1. **कुञ्चिका कुत्र अस्ति? $\rightarrow$ कुञ्चिका उत्पीठिकायाम् अस्ति।**
-2. **एतत् सङ्गणकम् अस्ति।** (*Etat saṅgaṇakam asti.*)
-3. **मम भगिनी पुस्तकम् पठति।** (*Mama bhaginī pustakam paṭhati.*)
-4. **सा घटी वा? $\rightarrow$ आम्, सा घटी अस्ति।** (*Sā ghaṭī vā? $\rightarrow$ Ām, sā ghaṭī asti.*)
+1. **पश्यन्तु, एषा मम उत्पीठिका, इदम् च मम आसनम्।** (*Paśyantu, eṣā mama utpīṭhikā, idam ca mama āsanam.*)
+2. **इदम् मम चलचित्राङ्कन-यन्त्रम्!** (*Idam mama calacitrāṅkana-yantram!*)
+3. **मम जलकूपी कुत्र अस्ति? $\rightarrow$ सा उत्पीठिकायाम् अस्ति।** (*Mama jalakūpī kutra asti? $\rightarrow$ Sā utpīṭhikāyām asti.*)
+4. **मम प्रकोष्ठः कथम् अस्ति? कृपया टिप्पणीं लिखन्तु!** (*Mama prakoṣṭhaḥ katham asti? Kṛpayā ṭippaṇīṃ likhantu!*)

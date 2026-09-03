@@ -1,8 +1,8 @@
-# Day 030: पञ्चतन्त्रम् - मूर्ख-पण्डित-कथा (Four Scholars: Shatṛ Simultaneous Actions)
+# Day 030: पञ्चतन्त्रम् - मूर्ख-पण्डित-कथा (Four Scholars & "Walking & Talking" Live Vlog)
 
-Welcome to Day 30! Today, we read one of the most satirical and witty fables in Sanskrit literature: **मूर्ख-पण्डित-कथा (The Four Scholars and the Lion)**.
+Welcome to Day 30! Today, we read one of the most satirical fables in Sanskrit literature: **मूर्ख-पण्डित-कथा (The Four Scholars and the Lion)**.
 
-We also unlock **शतृ-प्रत्ययः (Shatṛ Participle)**: Sanskrit's elegant way of expressing simultaneous ongoing actions ("*doing X while doing Y / while reading, while walking, while listening*") matching the gender and case of the doer (**पठन्, गच्छन्, शृण्वन्, हसन्**).
+We also master **शतृ-प्रत्ययः (Shatṛ Participles)** for dynamic **"Walking & Talking" Street Vlogging and Live Streaming** (*मार्गे चलन् सम्भाषणं करोति / Walking while talking on camera*).
 
 ---
 
@@ -71,7 +71,7 @@ We also unlock **शतृ-प्रत्ययः (Shatṛ Participle)**: Sans
 
 ---
 
-## 🗣️ व्यावहारिक-सम्भाषणम्: युगपद्-कार्याणि (Simultaneous Everyday Actions with Shatṛ)
+## 🗣️ व्यावहारिक-सम्भाषणम्: युगपद्-कार्याणि (Simultaneous Everyday Actions)
 
 In daily conversations, we frequently describe multi-tasking or doing two actions at the same time:
 
@@ -87,20 +87,27 @@ In daily conversations, we frequently describe multi-tasking or doing two action
 
 ---
 
-### 2. Conversational Mini-Dialogue: Talking about Daily Multi-Tasking
+## 🎥 व्लॉगिङ्ग्-संस्कृतम्: "चलन्-सम्भाषणम्" (Walk & Talk Outdoor Live Vlog Script)
 
-* **माधवः (Madhav):** भवान् सङ्गणके कार्यं **कथम् करोति**?
-  > *Bhavān saṅgaṇake kāryam katham karoti?*
-  > *How do you do work on the computer?*
-* **केशवः (Keshav):** अहम् **सङ्गीतं शृण्वन्** (while listening to music) आनन्देन कार्यं करोमि!
-  > *Aham saṅgītaṃ śṛṇvan ānandena kāryaṃ karomi!*
-  > *I work joyfully while listening to music!*
-* **माधवः:** उत्तमम्! सा बालिका किम् करोति?
-  > *Uttamam! Sā bālikā kim karoti?*
-  > *Great! What is that girl doing?*
-* **केशवः:** सा **हसन्ती** (while smiling) मात्रे कथां कथयति।
-  > *Sā hasantī mātre kathāṃ kathayati.*
-  > *She is telling a story to her mother while smiling.*
+When walking down the street, holding the selfie stick/camera, and talking live to your audience:
+
+### 1. "Walk & Talk" Live Creator Script (शतृ-प्रयोगः)
+
+> **"भो दर्शकाः! पश्यन्तु, अहम् अधुना नगरे **चलन्** (while walking) भवद्भिः सह सम्भाषे!"**
+> *Bho darśakāḥ! Paśyantu, aham adhunā nagare calan bhavadbhiḥ saha sambhāṣe!*
+> **"Hey viewers! Look, right now while walking through the city I am chatting with you!"**
+
+> **"सूर्यस्य किरणान् **आस्वादयन्** (while enjoying the sunlight), शीतल-वायुम् **अनुभवन्** (while feeling the cool breeze) अहम् दृश्यवृत्तान्तं रचयामि।"**
+> *Sūryasya kiraṇān āsvādayan, śītala-vāyum anubhavan aham dṛśyavṛttāntaṃ racayāmi.*
+> **"While enjoying the sun rays and feeling the cool breeze, I am creating this vlog."**
+
+> **"पश्यन्तु, तत्र बालकाः **क्रीडन्तः हसन्ति** (playing while laughing)!"**
+> *Paśyantu, tatra bālakāḥ krīḍantaḥ hasanti!*
+> **"Look, over there children are laughing while playing!"**
+
+> **"वयम् अग्रे **गच्छन्तः** (while going forward) नूतनानि वस्तूनि द्रक्ष्यामः!"**
+> *Vayam agre gacchantaḥ nūtanāni vastūni drakṣyāmaḥ!*
+> **"As we continue moving forward, we will discover new things!"**
 
 ---
 
@@ -131,6 +138,7 @@ $$\begin{array}{|l|l|l|l|}
 | **कुर्वन्** | kurvan | Shatṛ Participle (Masc.) | while doing |
 | **पश्यन्** | paśyan | Shatṛ Participle (Masc.) | while seeing / watching |
 | **शृण्वन्** | śṛṇvan | Shatṛ Participle (Masc.) | while listening |
+| **चलन्** | calan | Shatṛ Participle (Masc.) | while walking / moving |
 | **मांसम्** | māṃsam | Noun (Neut.) | flesh |
 | **प्राणः** | prāṇaḥ | Noun (Masc.) | life breath / vitality |
 | **रुधिरम्** | rudhiram | Noun (Neut.) | blood |
@@ -144,13 +152,13 @@ $$\begin{array}{|l|l|l|l|}
 ### Exercise 1: Form Shatṛ (शतृ) forms
 1. धाव् (to run) $\rightarrow$ Masculine: _________ | Feminine: _________
 2. लिख् (to write) $\rightarrow$ Masculine: _________ | Feminine: _________
-3. कृ (to do) $\rightarrow$ Masculine: _________ | Feminine: _________
+3. चल् (to walk) $\rightarrow$ Masculine: _________ | Feminine: _________
 
-### Exercise 2: Translate into Spoken Sanskrit
-1. I work while listening to music.
-2. The girl speaks while smiling.
-3. The student reads while walking.
-4. The children eat while talking.
+### Exercise 2: Translate into Spoken & Vlogging Sanskrit
+1. "While walking down the street, I am speaking to the camera."
+2. "The girl speaks while smiling."
+3. "I work while listening to music."
+4. "The children play while laughing."
 
 ---
 
@@ -159,10 +167,10 @@ $$\begin{array}{|l|l|l|l|}
 ### Answers to Exercise 1:
 1. धाव् $\rightarrow$ **धावन्** (*dhāvan*) | **धावन्ती** (*dhāvantī*)
 2. लिख् $\rightarrow$ **लिखन्** (*likhan*) | **लिखन्ती** (*likhantī*)
-3. कृ $\rightarrow$ **कुर्वन्** (*kurvan*) | **कुर्वती** (*kurvatī*)
+3. चल् $\rightarrow$ **चलन्** (*calan*) | **चलन्ती** (*calantī*)
 
 ### Answers to Exercise 2:
-1. **अहम् सङ्गीतं शृण्वन् कार्यं करोमि।** (*Aham saṅgītaṃ śṛṇvan kāryaṃ karomi.*)
+1. **मार्गे चलन् अहम् यन्त्रं पश्यन् सम्भाषे।** (*Mārge calan aham yantraṃ paśyan sambhāṣe.*)
 2. **बालिका हसन्ती वदति।** (*Bālikā hasantī vadati.*)
-3. **छात्रः चलन् पठति।** (*Chātraḥ calan paṭhati.*)
-4. **बालकाः वार्तालापं कुर्वन्तः खादन्ति।** (*Bālakāḥ vārtālāpaṃ kurvantaḥ khādanti.*)
+3. **अहम् सङ्गीतं शृण्वन् कार्यं करोमि।** (*Aham saṅgītaṃ śṛṇvan kāryaṃ karomi.*)
+4. **बालकाः हसन्तः क्रीडन्ति।** (*Bālakāḥ hasantaḥ krīḍanti.*)
