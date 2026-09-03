@@ -2,7 +2,7 @@
 
 Welcome to Day 30! Today, we read one of the most satirical fables in Sanskrit literature: **मूर्ख-पण्डित-कथा (The Four Scholars and the Lion)**.
 
-We also master **शतृ-प्रत्ययः (Shatṛ Participles)** for dynamic **"Walking & Talking" Street Vlogging and Live Streaming** (*मार्गे चलन् सम्भाषणं करोति / Walking while talking on camera*).
+We also master **शतृ-प्रत्ययः (Shatṛ Participles)** for expressing multi-tasking in everyday life and dynamic **"Walking & Talking" Street Vlogging and Live Streaming** (*मार्गे चलन् सम्भाषणं करोति / Walking while talking on camera*).
 
 ---
 
@@ -71,7 +71,7 @@ We also master **शतृ-प्रत्ययः (Shatṛ Participles)** for 
 
 ---
 
-## 🗣️ व्यावहारिक-सम्भाषणम्: युगपद्-कार्याणि (Simultaneous Everyday Actions)
+## 🗣️ व्यावहारिक-सम्भाषणम्: युगपद्-कार्याणि (Simultaneous Everyday Actions with Shatṛ)
 
 In daily conversations, we frequently describe multi-tasking or doing two actions at the same time:
 
@@ -84,6 +84,23 @@ In daily conversations, we frequently describe multi-tasking or doing two action
 | **Smiling while Answering**| सा **हसन्ती** उत्तरं ददाति। | *Sā hasantī uttaraṃ dadāti.* | She answers **while smiling**. |
 | **Reading while Commuting**| छात्रः **चलन् / गच्छन्** पठति। | *Chātraḥ calan / gacchan paṭhati.* | The student reads **while walking**. |
 | **Thinking while Deciding**| सः **विचारं कुर्वन्** तिष्ठति। | *Saḥ vicāraṃ kurvan tiṣṭhati.* | He stands **while pondering**. |
+
+---
+
+### 2. Conversational Mini-Dialogue: Talking about Daily Multi-Tasking
+
+* **माधवः (Madhav):** भवान् सङ्गणके कार्यं **कथम् करोति**?
+  > *Bhavān saṅgaṇake kāryam katham karoti?*
+  > *How do you do work on the computer?*
+* **केशवः (Keshav):** अहम् **सङ्गीतं शृण्वन्** (while listening to music) आनन्देन कार्यं करोमि!
+  > *Aham saṅgītaṃ śṛṇvan ānandena kāryaṃ karomi!*
+  > *I work joyfully while listening to music!*
+* **माधवः:** उत्तमम्! सा बालिका किम् करोति?
+  > *Uttamam! Sā bālikā kim karoti?*
+  > *Great! What is that girl doing?*
+* **केशवः:** सा **हसन्ती** (while smiling) मात्रे कथां कथयति।
+  > *Sā hasantī mātre kathāṃ kathayati.*
+  > *She is telling a story to her mother while smiling.*
 
 ---
 
@@ -152,13 +169,19 @@ $$\begin{array}{|l|l|l|l|}
 ### Exercise 1: Form Shatṛ (शतृ) forms
 1. धाव् (to run) $\rightarrow$ Masculine: _________ | Feminine: _________
 2. लिख् (to write) $\rightarrow$ Masculine: _________ | Feminine: _________
-3. चल् (to walk) $\rightarrow$ Masculine: _________ | Feminine: _________
+3. कृ (to do) $\rightarrow$ Masculine: _________ | Feminine: _________
+4. चल् (to walk) $\rightarrow$ Masculine: _________ | Feminine: _________
 
-### Exercise 2: Translate into Spoken & Vlogging Sanskrit
+### Exercise 2: Translate into Spoken Sanskrit (Everyday Multi-Tasking)
+1. I work while listening to music.
+2. The girl speaks while smiling.
+3. The student reads while walking.
+4. The children eat while talking.
+
+### Exercise 3: Vlogging Walk-and-Talk Practice
 1. "While walking down the street, I am speaking to the camera."
-2. "The girl speaks while smiling."
-3. "I work while listening to music."
-4. "The children play while laughing."
+2. "While enjoying the sunshine, I am recording this video."
+3. "The children play while laughing."
 
 ---
 
@@ -167,10 +190,16 @@ $$\begin{array}{|l|l|l|l|}
 ### Answers to Exercise 1:
 1. धाव् $\rightarrow$ **धावन्** (*dhāvan*) | **धावन्ती** (*dhāvantī*)
 2. लिख् $\rightarrow$ **लिखन्** (*likhan*) | **लिखन्ती** (*likhantī*)
-3. चल् $\rightarrow$ **चलन्** (*calan*) | **चलन्ती** (*calantī*)
+3. कृ $\rightarrow$ **कुर्वन्** (*kurvan*) | **कुर्वती** (*kurvatī*)
+4. चल् $\rightarrow$ **चलन्** (*calan*) | **चलन्ती** (*calantī*)
 
 ### Answers to Exercise 2:
-1. **मार्गे चलन् अहम् यन्त्रं पश्यन् सम्भाषे।** (*Mārge calan aham yantraṃ paśyan sambhāṣe.*)
+1. **अहम् सङ्गीतं शृण्वन् कार्यं करोमि।** (*Aham saṅgītaṃ śṛṇvan kāryaṃ karomi.*)
 2. **बालिका हसन्ती वदति।** (*Bālikā hasantī vadati.*)
-3. **अहम् सङ्गीतं शृण्वन् कार्यं करोमि।** (*Aham saṅgītaṃ śṛṇvan kāryaṃ karomi.*)
-4. **बालकाः हसन्तः क्रीडन्ति।** (*Bālakāḥ hasantaḥ krīḍanti.*)
+3. **छात्रः चलन् पठति।** (*Chātraḥ calan paṭhati.*)
+4. **बालकाः वार्तालापं कुर्वन्तः खादन्ति।** (*Bālakāḥ vārtālāpaṃ kurvantaḥ khādanti.*)
+
+### Answers to Exercise 3:
+1. **मार्गे चलन् अहम् यन्त्रं पश्यन् सम्भाषे।** (*Mārge calan aham yantraṃ paśyan sambhāṣe.*)
+2. **सूर्यस्य प्रकाशम् आस्वादयन् अहम् दृश्यं गृह्णामि।** (*Sūryasya prakāśam āsvādayan aham dṛśyaṃ gṛhṇāmi.*)
+3. **बालकाः हसन्तः क्रीडन्ति।** (*Bālakāḥ hasantaḥ krīḍanti.*)

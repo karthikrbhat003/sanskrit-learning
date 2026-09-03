@@ -2,7 +2,7 @@
 
 Welcome to Day 27! Today, we explore one of the most famous stories from the fifth book of the Panchatantra (*अपरीक्षित-कारकम् - Action without Investigation*): **ब्राह्मण-नकुल-कथा (The Brahmana and the Loyal Mongoose)**.
 
-We also master **क्त्वा प्रत्ययः (Ktvā Gerunds)** to narrate a seamless **"Day in My Life" Vlog Script** (*मम दिनचर्या-दृश्यवृत्तान्तः*) without chaining dozens of awkward full verbs.
+We also master **क्त्वा प्रत्ययः (Ktvā Gerunds)** to express smooth sequential actions in daily conversations and narrate a seamless **"Day in My Life" Vlog Script** (*मम दिनचर्या-दृश्यवृत्तान्तः*) without chaining dozens of awkward full verbs.
 
 ---
 
@@ -77,7 +77,7 @@ This classic verse warns against acting impulsively in haste:
 
 ---
 
-## 🗣️ व्यावहारिक-सम्भाषणम्: दैनन्दिन-कार्याणां क्रमः (Sequential Actions)
+## 🗣️ व्यावहारिक-सम्भाषणम्: दैनन्दिन-कार्याणां क्रमः (Daily Sequential Activities with Ktvā)
 
 In daily speech, whenever you describe doing one thing after another, use **Ktvā (क्त्वा)**:
 
@@ -90,6 +90,20 @@ In daily speech, whenever you describe doing one thing after another, use **Ktv�
 | **Reading $\rightarrow$ Sleep** | वयम् **पुस्तकं पठित्वा** शयनं कुर्मः। | *Vayam pustakaṃ paṭhitvā śayanaṃ kurmaḥ.* | Having read the book, we go to sleep. |
 | **Seeing $\rightarrow$ Smiling** | सा **मित्रं दृष्ट्वा** हसति। | *Sā mitraṃ dṛṣṭvā hasati.* | Having seen her friend, she smiles. |
 | **Hearing $\rightarrow$ Joy** | अहम् **वार्तां श्रुत्वा** प्रसन्नः अस्मि। | *Aham vārtāṃ śrutvā prasannaḥ asmi.* | Having heard the news, I am joyful. |
+
+---
+
+### 2. Conversational Mini-Dialogue: What Did You Do This Morning?
+
+* **अमितः (Amit):** भवान् प्रातःकाले **किम् कृत्वा** (after doing what) अत्र आगच्छत्?
+  > *Bhavān prātaḥkāle kim kṛtvā atra āgacchat?*
+  > *Having done what did you come here this morning?*
+* **सुमितः (Sumit):** अहम् प्रातः **योगाभ्यासं कृत्वा**, **चायं पीत्वा** च अत्र आगच्छम्।
+  > *Aham prātaḥ yogābhyāsaṃ kṛtvā, cāyaṃ pītvā ca atra āgaccham.*
+  > *Having done yoga and having drunk tea in the morning, I came here.*
+* **अमितः:** उत्तमम्! अधुना **अल्पाहारं खादित्वा** वयं कार्यम् आरभामहै।
+  > *Uttamam! Adhunā alpāhāraṃ khāditvā vayam kāryam ārabhāmahai.*
+  > *Great! Now having eaten breakfast, let us begin our work.*
 
 ---
 
@@ -116,7 +130,7 @@ Use this complete continuous narration for a "Day in My Life / Morning Routine" 
 > **"Having reached office and worked on my computer, I return home in the evening."**
 
 > **"भवतः दिनचर्या कीदृशी? कृपया टिप्पणी-भागे लिखन्तु!"**
-> *Bhavataḥ dinacaryā kīdṛśī? Kṛpayā ṭippaṇī-bhāge likhantu!*
+> *Bhavataḥ dinacaryā kīdṛśī? Kṛpayā ṭippaṇī-bhāge लिखन्तु!*
 > **"How is your daily routine? Please write in the comments below!"**
 
 ---
@@ -135,6 +149,8 @@ $$\begin{array}{|l|l|l|l|}
 \textbf{पा (pā)} & \text{to drink} & \textbf{पीत्वा} \text{ (pītvā)} & \text{having drunk} \\
 \textbf{पठ् (paṭh)} & \text{to read} & \textbf{पठित्वा} \text{ (paṭhitvā)} & \text{having read} \\
 \textbf{लिख् (likh)} & \text{to write} & \textbf{लिखित्वा} \text{ (likhitvā)} & \text{having written} \\
+\textbf{मन् (man)} & \text{to think} & \textbf{मत्वा} \text{ (matvā)} & \text{having thought / assumed} \\
+\textbf{त्यज् (tyaj)} & \text{to abandon} & \textbf{त्यक्त्वा} \text{ (tyaktvā)} & \text{having left / given up} \\
 \hline
 \end{array}$$
 
@@ -159,13 +175,19 @@ $$\begin{array}{|l|l|l|l|}
 
 ## 📝 अभ्यासः (Exercises)
 
-### Exercise 1: Combine two actions into one using Ktvā (क्त्वा)
+### Exercise 1: Combine two sentences into one using Ktvā (क्त्वा)
 1. सा जलम् पिबति। सा गच्छति। $\rightarrow$ ___________________________
 2. नकुलः सर्पम् पश्यति। नकुलः आक्रमति। $\rightarrow$ ___________________________
 3. विप्रः पुस्तकम् पठति। विप्रः पाठयति। $\rightarrow$ ___________________________
 4. अहम् स्नानं करोमि। अहम् भोजनं करोमि। $\rightarrow$ ___________________________
 
-### Exercise 2: Translate into Spoken & Vlogging Sanskrit
+### Exercise 2: Translate into Spoken Sanskrit (Everyday Past Actions)
+1. Having eaten food, he went to office.
+2. Having seen his friend, the boy smiled.
+3. Having drunk water, she sat down.
+4. Having heard the story, we were pleased.
+
+### Exercise 3: Vlogging & Morning Routine Practice
 1. "Having taken a bath, I prepare breakfast."
 2. "Having seen my friend, I smiled."
 3. "Having reached the office, I began working on my computer."
@@ -182,6 +204,12 @@ $$\begin{array}{|l|l|l|l|}
 4. अहम् स्नानं **कृत्वा** भोजनं करोमि। (*Aham snānaṃ kṛtvā bhojanaṃ karomi.*)
 
 ### Answers to Exercise 2:
+1. **भोजनम् खादित्वा सः कार्यालयम् अगच्छत्।** (*Bhojanam khāditvā saḥ kāryālayam agacchat.*)
+2. **मित्रम् दृष्ट्वा बालकः अहसत्।** (*Mitram dṛṣṭvā bālakaḥ ahasat.*)
+3. **जलम् पीत्वा सा उपाविशत्।** (*Jalam pītvā sā upāviśat.*)
+4. **कथाम् श्रुत्वा वयम् प्रसन्नाः अभवाम।** (*Kathām śrutvā vayam prasannāḥ abhavāma.*)
+
+### Answers to Exercise 3:
 1. **स्नानं कृत्वा अहम् अल्पाहारं सज्जीकरोमि।** (*Snānaṃ kṛtvā aham alpāhāraṃ sajjīkaromi.*)
 2. **मित्रम् दृष्ट्वा अहम् अहसम्।** (*Mitram dṛṣṭvā aham ahasam.*)
 3. **कार्यालयं गत्वा सङ्गणके कार्यम् आरब्धवान्।** (*Kāryālayaṃ gatvā saṅgaṇake kāryam ārabdhavān.*)

@@ -47,9 +47,9 @@ Read these real-life conversational addresses and classroom exchanges:
 
 ---
 
-## 🗣️ व्यावहारिक-सम्भाषणम्: दूरवाणी-वार्तालापः (Telephone Etiquette)
+## 🗣️ व्यावहारिक-सम्भाषणम्: दूरवाणी-वार्तालापः (Telephone Etiquette & Spoken Formulas)
 
-In spoken Sanskrit, phone calls and polite summons have clear formulas:
+In spoken Sanskrit, phone calls and polite summons have clear, musical formulas:
 
 ### 1. Daily Vocative Calling Formulas (सम्बोधन-पदानि)
 
@@ -63,6 +63,26 @@ In spoken Sanskrit, phone calls and polite summons have clear formulas:
 | **मित्रम्** | Friend | **हे मित्र! / भो मित्र!** | **भो मित्र!** किम् वार्ता? (O friend! What is the news?) |
 | **महोदयः** | Respected Sir | **महोदय! / महाभाग!** | **महोदय!** क्षम्यताम्। (Respected sir! Excuse me.) |
 | **मान्या** | Respected Madam | **मान्ये!** | **मान्ये!** स्वागतम्। (Madam! Welcome.) |
+
+---
+
+### 2. Conversational Mini-Dialogue: Telephone Conversation (दूरवाणी-सम्भाषणम्)
+
+* **रमेशः (Calling):** हरिः ओम्!
+  > *Hariḥ om!*
+  > *Hello!*
+* **सुरेशः (Answering):** हरिः ओम्! कः वदति?
+  > *Hariḥ om! Kaḥ vadati?*
+  > *Hello! Who is speaking?*
+* **रमेशः:** अहम् रमेशः वदामि। भो सुरेश! किम् अहम् आनन्देन सह सम्भाषणं कर्तुं शक्नोमि?
+  > *Aham Rameshḥ vadāmi. Bho Sureśa! Kim aham Ānandena saha sambhāṣaṇaṃ kartuṃ śaknomi?*
+  > *I am Ramesh speaking. O Suresh! Can I speak with Anand?*
+* **सुरेशः:** आम्, आनन्दः गृहे एव अस्ति। कृपया क्षणम् प्रतीक्षताम् (Please wait a moment)। आनन्द! तव दूरवाणी अस्ति!
+  > *Ām, Ānandaḥ gṛhe eva asti. Kṛpayā kṣaṇam pratīkṣatām. Ānanda! Tava dūravāṇī asti!*
+  > *Yes, Anand is right at home. Please wait a moment. Anand! There is a phone call for you!*
+* **आनन्दः:** हरिः ओम् रमेश! वदतु, किम् वार्ता?
+  > *Hariḥ om Rameśa! Vadatu, kim vārtā?*
+  > *Hello Ramesh! Tell me, what's the news?*
 
 ---
 
@@ -123,6 +143,7 @@ When conducting street interviews or addressing your online audience directly on
 | **मान्ये** | mānye | Vocative Noun | O respected madam! |
 | **पितः** | pitaḥ | Vocative Noun | O father! |
 | **प्रभो** | prabho | Vocative Noun | O Lord / Master! |
+| **प्रतीक्षताम्** | pratīkṣatām | Verb (Imperative) | please wait |
 | **प्रसिद्धम्** | prasiddham | Adjective (Neut.) | famous / renowned |
 | **युवक** | yuvaka | Vocative Noun | O young man! |
 | **वार्ता** | vārtā | Noun (Fem.) | news / tidings |
@@ -144,15 +165,23 @@ When conducting street interviews or addressing your online audience directly on
 
 ### Exercise 1: Form the correct Vocative address
 1. कृष्णः $\rightarrow$ हे _________!
-2. दर्शकः (Viewer) $\rightarrow$ भोः _________ (Plural: दर्शकाः)!
-3. जननी $\rightarrow$ हे _________!
-4. मित्रम् $\rightarrow$ हे _________!
-5. महोदयः $\rightarrow$ _________!
+2. राधा $\rightarrow$ हे _________!
+3. दर्शकः (Viewer) $\rightarrow$ भोः _________ (Plural: दर्शकाः)!
+4. जननी $\rightarrow$ हे _________!
+5. मित्रम् $\rightarrow$ हे _________!
+6. अध्यापकः $\rightarrow$ हे _________!
+7. महोदयः $\rightarrow$ _________!
 
-### Exercise 2: Translate into Spoken & Vlogging Sanskrit
-1. "O dear viewers! Look here!"
-2. "Respected sir, may I ask a question?"
+### Exercise 2: Translate into Spoken Sanskrit (Telephone & Direct Calls)
+1. "Hello! Who is speaking?" $\rightarrow$ "I am Suresh speaking."
+2. "O sister! Please give water."
 3. "O friend! What is the news?"
+4. "Respected sir, excuse me!"
+
+### Exercise 3: Vlogging & Interview Dialogue Translations
+1. "O dear viewers! Look here!"
+2. "Respected sir, may I ask a question on camera?"
+3. "O young man, speak what you wish!"
 4. "O sister! Please show the camera!"
 
 ---
@@ -161,13 +190,21 @@ When conducting street interviews or addressing your online audience directly on
 
 ### Answers to Exercise 1:
 1. हे **कृष्ण**!
-2. भोः **दर्शकाः**!
-3. हे **जननि**!
-4. हे **मित्र**!
-5. **महोदय**!
+2. हे **राधे**!
+3. भोः **दर्शकाः**!
+4. हे **जननि**!
+5. हे **मित्र**!
+6. हे **अध्यापक**!
+7. **महोदय**!
 
 ### Answers to Exercise 2:
+1. **हरिः ओम्! कः वदति? $\rightarrow$ अहम् सुरेशः वदामि।** (*Hariḥ om! Kaḥ vadati? $\rightarrow$ Aham Sureśaḥ vadāmi.*)
+2. **हे भगिनि! कृपया जलम् ददातु।** (*He bhagini! Kṛpayā jalam dadātu.*)
+3. **भो मित्र! किम् वार्ता?** (*Bho mitra! Kim vārtā?*)
+4. **महोदय! क्षम्यताम्।** (*Mahodaya! Kṣamyatām.*)
+
+### Answers to Exercise 3:
 1. **भो प्रिय-दर्शकाः! अत्र पश्यन्तु!** (*Bho priya-darśakāḥ! Atra paśyantu!*)
 2. **महोदय! किम् अहम् प्रश्नं प्रष्टुं शक्नोमि?** (*Mahodaya! Kim aham praśnaṃ praṣṭuṃ śaknomi?*)
-3. **भो मित्र! किम् वार्ता?** (*Bho mitra! Kim vārtā?*)
+3. **युवक! वदतु, किम् इच्छति?** (*Yuvaka! Vadatu, kim icchati?*)
 4. **हे भगिनि! कृपया चलचित्राङ्कन-यन्त्रं दर्शयतु!** (*He bhagini! Kṛpayā calacitrāṅkana-yantraṃ darśayatu!*)

@@ -5,7 +5,7 @@ Welcome to Day 4! One of Sanskrit's most distinctive features is its **threefold
 2. **द्विवचनम् (Dvivacanam)**: Dual (exactly two entities)
 3. **बहुवचनम् (Bahuvacanam)**: Plural (three or more entities)
 
-Today, we will learn how nouns, pronouns, and verbs transform across all three numbers, master **the 6 essential Question Words**, and practice a real-life **Street Food & Market Shopping Vlog Script** (*आपण-भ्रमणम्*).
+Today, we will learn how nouns, pronouns, and verbs transform across all three numbers, master **the 6 essential Question Words**, practice asking street directions, shopping in markets, and filming a **Street Food & Market Tour Vlog** (*आपण-भ्रमणम्*).
 
 ---
 
@@ -77,6 +77,41 @@ In daily life, questioning is the heart of fluent communication:
 
 ---
 
+### 2. Conversational Mini-Dialogues for Day-to-Day Inquiry
+
+#### Scenario A: Asking Directions on the Street (मार्ग-पृच्छा)
+* **पथिकः (Traveler):** भो महोदय! क्षम्यताम्। ग्रन्थालयः (library) **कुत्र** अस्ति?
+  > *Bho mahodaya! Kṣamyatām. Granthālayaḥ kutra asti?*
+  > *Excuse me sir! Where is the library?*
+* **नागरिकः (Citizen):** ग्रन्थालयः पुरतः (ahead) अस्ति।
+  > *Granthālayaḥ purataḥ asti.*
+  > *The library is straight ahead.*
+* **पथिकः:** सः **कदा** उद्घाट्यते (opens)?
+  > *Saḥ kadā udghāṭyate?*
+  > *When does it open?*
+* **नागरिकः:** सः प्रातः नववादने (at 9 AM) उद्घाट्यते।
+  > *Saḥ prātaḥ navavādane udghāṭyate.*
+  > *It opens at 9 o'clock in the morning.*
+* **पथिकः:** बहु धन्यवादः!
+  > *Bahu dhanyavādaḥ!*
+  > *Thank you very much!*
+
+#### Scenario B: In the Market / Shopping (आपणे क्रयणम्)
+* **ग्राहकः (Customer):** भ्रातः! एतेषां फलानां मूल्यं **कति**?
+  > *Bhrātaḥ! Eteṣāṃ phalānāṃ mūlyaṃ kati?*
+  > *Brother! How much is the price of these fruits?*
+* **आपणिकः (Shopkeeper):** दश रूप्यकाणि (10 Rupees).
+  > *Daśa rūpyakāṇi.*
+  > *Ten rupees.*
+* **ग्राहकः:** पञ्च फलानि ददातु।
+  > *Pañca phalāni dadātu.*
+  > *Please give five fruits.*
+* **आपणिकः:** स्वीकरोतु। धन्यवादः!
+  > *Svīkarotu. Dhanyavādaḥ!*
+  > *Please take them. Thank you!*
+
+---
+
 ## 🎥 व्लॉगिङ्ग्-संस्कृतम्: आपण-भ्रमणम् (Market Tour & Street Food Vlog)
 
 Filming an outdoor food tour or marketplace shopping vlog? Here is an authentic spoken Sanskrit creator script:
@@ -131,6 +166,7 @@ Filming an outdoor food tour or marketplace shopping vlog? Here is an authentic 
 | **कति** | kati | Question Word (Avyaya) | how many / how much? |
 | **किमर्थम्** | kimartham | Question Word (Avyaya) | why? / for what purpose? |
 | **कुत्र** | kutra | Question Word (Avyaya) | where? |
+| **क्रीडाङ्गणम्** | krīḍāङ्gaṇam | Noun (Neut.) | playground / sports ground |
 | **मूल्यम्** | mūlyam | Noun (Neut.) | price / cost |
 | **पञ्च** | pañca | Number | five |
 | **पाठः** | pāṭhaḥ | Noun (Masc.) | lesson / lecture / class |
@@ -140,6 +176,7 @@ Filming an outdoor food tour or marketplace shopping vlog? Here is an authentic 
 | **शिक्षकः** | śikṣakaḥ | Noun (Masc.) | teacher (male) |
 | **स्तः** | staḥ | Verb (3rd Dual of *as*) | [the two] are |
 | **उत्तमम्** | uttamam | Adjective / Interjection | excellent / very good |
+| **विलम्बः** | vilambaḥ | Noun (Masc.) | delay / lateness |
 
 ---
 
@@ -166,11 +203,17 @@ Filming an outdoor food tour or marketplace shopping vlog? Here is an authentic 
 4. द्वे बालिके पुस्तकम् _________।
 5. सर्वे बालकाः _________।
 
-### Exercise 2: Form everyday questions in Sanskrit for Spoken & Vlogging Practice
-1. "Where is the fruit market?" (Use *kutra*)
-2. "How much is the cost of this food?" (Use *kati*)
-3. "When will the shop open?" (Use *kadā*)
-4. "Why is everyone joyful?" (Use *kimartham*)
+### Exercise 2: Form everyday questions in Sanskrit
+1. "Where is the shop?" (Use *kutra*)
+2. "How much is the cost?" (Use *kati*)
+3. "When is the train arriving?" (Use *kadā*)
+4. "Why are you late?" (Use *kimartham*)
+
+### Exercise 3: Vlogging Market Questions
+1. "Where is the fruit market?"
+2. "How much is the cost of this food?"
+3. "When will the shop open?"
+4. "Why is everyone joyful?"
 
 ---
 
@@ -184,6 +227,12 @@ Filming an outdoor food tour or marketplace shopping vlog? Here is an authentic 
 5. सर्वे बालकाः **पठन्ति**।
 
 ### Answers to Exercise 2:
+1. **आपणः कुत्र अस्ति?** (*Āpaṇaḥ kutra asti?*)
+2. **मूल्यं कति अस्ति?** (*Mūlyaṃ kati asti?*)
+3. **रेलयानं कदा आगच्छति?** (*Relayānaṃ kadā āgacchati?*)
+4. **भवान् किमर्थम् विलम्बेन आगच्छति?** (*Bhavān kimartham vilambena āgacchati?*)
+
+### Answers to Exercise 3:
 1. **फल-विपणिका कुत्र अस्ति?** (*Phala-vipaṇikā kutra asti?*)
 2. **अस्य खाद्यस्य मूल्यं कति?** (*Asya khādyasya mūlyaṃ kati?*)
 3. **आपणः कदा उद्घाट्यते?** (*Āpaṇaḥ kadā udghāṭyate?*)

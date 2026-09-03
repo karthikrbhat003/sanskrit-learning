@@ -2,7 +2,7 @@
 
 Welcome to Day 11! Today, we explore **षष्ठी विभक्तिः (Ṣaṣṭhī Vibhakti - Genitive Case)**. In Sanskrit grammar, this case denotes **सम्बन्धः (Sambandha - Possession & Relationship)**—indicating "*whose something is*" or "*of whom/what*".
 
-It is also used with **Positional Adverbs** to give exact spatial directions and camera panning cues in **outdoor travel vlogging** (**पुरतः, पृष्ठतः, दक्षिणतः, वामतः, उपरि, अधः**).
+It is also used with **Positional Adverbs** to give exact spatial directions in daily life and camera panning cues in **outdoor travel vlogging** (**पुरतः, पृष्ठतः, दक्षिणतः, वामतः, उपरि, अधः**).
 
 ---
 
@@ -66,6 +66,35 @@ $$\begin{array}{|l|l|l|}
 
 ---
 
+### 2. Conversational Mini-Dialogues: Asking Ownership & Directions
+
+#### Scenario A: Asking Whose Item It Is (कस्य / कस्याः एतत्?)
+* **मित्रम् १:** एतत् **कस्य** (whose - masc.) सङ्गणकम्?
+  > *Etat kasya saṅgaṇakam?*
+  > *Whose computer is this?*
+* **मित्रम् २:** एतत् **मम भ्रातुः** (my brother's) सङ्गणकम्।
+  > *Etat mama bhrātuḥ saṅgaṇakam.*
+  > *This is my brother's computer.*
+* **मित्रम् १:** एषा **कस्याः** (whose - fem.) लेखनी?
+  > *Eṣā kasyāḥ lekhanī?*
+  > *Whose pen is this?*
+* **मित्रम् २:** एषा **मम भगिन्याः** (my sister's) लेखनी।
+  > *Eṣā mama bhaginyāḥ lekhanī.*
+  > *This is my sister's pen.*
+
+#### Scenario B: Giving Street Navigation Directions (मार्ग-प्रदर्शनम्)
+* **पथिकः (Traveler):** भोः! चिकित्सालयः (hospital) कुत्र अस्ति?
+  > *Bhoḥ! Cikitsālayaḥ kutra asti?*
+  > *Sir! Where is the hospital?*
+* **नागरिकः (Citizen):** पश्यतु, **रेल-स्थानकस्य पुरतः** गच्छतु। ततः **मार्गस्य दक्षिणतः** चिकित्सालयः अस्ति।
+  > *Paśyatu, rela-sthānakasya purataḥ gacchatu. Tataḥ mārgasya dakṣiṇataḥ cikitsālayaḥ asti.*
+  > *Look, go in front of the railway station. Then, to the right of the road is the hospital.*
+* **पथिकः:** बहु धन्यवादः!
+  > *Bahu dhanyavādaḥ!*
+  > *Thank you very much!*
+
+---
+
 ## 🎥 व्लॉगिङ्ग्-संस्कृतम्: स्थल-अन्वेषणम् (Landscape & Monument Exploration Vlog)
 
 Filming an outdoor landscape or temple exploration vlog? Use these camera panning cues:
@@ -113,12 +142,16 @@ Filming an outdoor landscape or temple exploration vlog? Use these camera pannin
 | :--- | :--- | :--- | :--- |
 | **अधः** | adhaḥ | Avyaya (takes Gen.) | below / underneath |
 | **अद्भुतम्** | adbhutam | Adjective (Neut.) | wondrous / amazing / marvelous |
+| **छाया** | chāyā | Noun (Fem.) | shade / shadow |
 | **दक्षिणतः** | dakṣiṇataḥ | Avyaya (takes Gen.) | to the right of |
-| **कस्य / कस्याः** | kasya / kasyāḥ | Interrogative Pronoun | whose? (male / female) |
+| **कस्य** | kasya | Interrogative Pronoun (Masc. Gen.)| whose? (male / neuter) |
+| **कस्याः** | kasyāḥ | Interrogative Pronoun (Fem. Gen.) | whose? (female) |
 | **पर्वतः** | parvataḥ | Noun (Masc.) | mountain / hill |
 | **पुरतः** | purataḥ | Avyaya (takes Gen.) | in front of |
 | **पृष्ठतः** | pṛṣṭhataḥ | Avyaya (takes Gen.) | behind / in the back |
+| **रामस्य** | rāmasya | Noun (Genitive Sg.) | of Rama / Rama's |
 | **सरोवरः** | sarovaraḥ | Noun (Masc.) | lake / reservoir |
+| **सीतायाः** | sītāyāḥ | Noun (Genitive Sg.) | of Sita / Sita's |
 | **उपरि** | upari | Avyaya (takes Gen.) | above / on top of |
 | **वामतः** | vāmataḥ | Avyaya (takes Gen.) | to the left of |
 
@@ -139,12 +172,18 @@ Filming an outdoor landscape or temple exploration vlog? Use these camera pannin
 
 ### Exercise 1: Form Ṣaṣṭhī forms for the bracketed words
 1. एतत् _________ (कृष्ण) गृहम् अस्ति।
-2. _________ (देवालय) पुरतः विशालः सरोवरः अस्ति।
-3. उत्पीठिकायाः _________ (उपरि / अधः) सङ्गणकम् अस्ति।
-4. मार्गस्य _________ (वामतः) आपणः अस्ति।
+2. _________ (विद्यालय) पुरतः विशालः वृक्षः अस्ति।
+3. उत्पीठिकायाः _________ (उपरि / अधः) पुस्तकम् अस्ति।
+4. देवालयस्य _________ (वामतः) सरोवरः अस्ति।
 5. एषा _________ (राधा - fem) माता अस्ति।
 
-### Exercise 2: Translate into Spoken & Vlogging Sanskrit
+### Exercise 2: Translate into Sanskrit for Spoken Practice
+1. Whose book is this? $\rightarrow$ This is Rama's book.
+2. The car is in front of the house.
+3. The cat is under the table.
+4. To the right of the hospital is a pharmacy (medicine shop $\rightarrow$ *auṣadhālayaḥ*).
+
+### Exercise 3: Vlogging Landscape Translations
 1. "In front of the temple is a beautiful garden."
 2. "Behind the mountain the sun rises."
 3. "To the right of the path is a cafe (उपहारगृहम्)."
@@ -156,12 +195,18 @@ Filming an outdoor landscape or temple exploration vlog? Use these camera pannin
 
 ### Answers to Exercise 1:
 1. एतत् **कृष्णस्य** गृहम् अस्ति।
-2. **देवालयस्य** पुरतः विशालः सरोवरः अस्ति।
-3. उत्पीठिकायाः **उपरि** सङ्गणकम् अस्ति।
-4. मार्गस्य **वामतः** आपणः अस्ति।
+2. **विद्यालयस्य** पुरतः विशालः वृक्षः अस्ति।
+3. उत्पीठिकायाः **उपरि** पुस्तकम् अस्ति।
+4. देवालयस्य **वामतः** सरोवरः अस्ति।
 5. एषा **राधायाः** माता अस्ति।
 
 ### Answers to Exercise 2:
+1. **एतत् कस्य पुस्तकम्? $\rightarrow$ एतत् रामस्य पुस्तकम्।**
+2. **गृहस्य पुरतः कार-यानम् अस्ति।** (*Gṛhasya purataḥ kāra-yānam asti.*)
+3. **उत्पीठिकायाः अधः मार्जारः अस्ति।** (*Utpīṭhikāyāḥ adhaḥ mārjāraḥ asti.*)
+4. **चिकित्सालयस्य दक्षिणतः औषधालयः अस्ति।** (*Cikitsālayasya dakṣiṇataḥ auṣadhālayaḥ asti.*)
+
+### Answers to Exercise 3:
 1. **देवालयस्य पुरतः सुन्दरम् उद्यानम् अस्ति।** (*Devālayasya purataḥ sundaram udyānam asti.*)
 2. **पर्वतस्य पृष्ठतः सूर्यः उदेति।** (*Parvatasya pṛṣṭhataḥ sūryaḥ udeti.*)
 3. **मार्गस्य दक्षिणतः उपहारगृहम् अस्ति।** (*Mārgasya dakṣiṇataḥ upahāragṛham asti.*)

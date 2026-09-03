@@ -63,6 +63,23 @@ In daily life, discussing what will happen tomorrow or this coming weekend is es
 
 ---
 
+### 2. Conversational Mini-Dialogues: Weekend Planning
+
+* **समीरः (Sameer):** भो मित्र! श्वः रविवासरे भवान् **किम् करिष्यति**?
+  > *Bho mitra! Śvaḥ ravivāsare bhavān kim kariṣyati?*
+  > *Friend! What will you do tomorrow on Sunday?*
+* **नकुलः (Nakul):** श्वः अहम् प्रातःकाले **ग्रन्थालयम् गमिष्यामि**। भवान् किम् करिष्यति?
+  > *Śvaḥ aham prātaḥkāle granthālayam gamiṣyāmi. Bhavān kim kariṣyati?*
+  > *Tomorrow in the morning I will go to the library. What will you do?*
+* **समीरः:** श्वः सायं वयम् **उद्याने मेलिष्यामः**। किम् भवान् आगमिष्यति?
+  > *Śvaḥ sāyaṃ vayam udyāne meliṣyāmaḥ. Kim bhavān āgamiṣyati?*
+  > *Tomorrow evening we will meet in the park. Will you come?*
+* **नकुलः:** आम्! अहम् अवश्यम् **आगमिष्यामि** (I will definitely come)!
+  > *Ām! Aham avaśyam āgamiṣyāmi!*
+  > *Yes! I will definitely come!*
+
+---
+
 ## 🎥 व्लॉगिङ्ग्-संस्कृतम्: आगामि-दृश्यवृत्तान्तस्य घोषणा (Next Vlog Episode Teaser)
 
 When teasing your next video or announcing future travel plans to your audience:
@@ -123,7 +140,11 @@ $$\begin{array}{|l|l|l|l|}
 | **जलप्रपातः** | jalaprapātaḥ | Noun (Masc.) | waterfall |
 | **करिष्यति** | kariṣyati | Future Verb (3rd Sg.) | will do / make |
 | **लेखिष्यति** | lekhiṣyati | Future Verb (3rd Sg.) | will write |
+| **पास्यति** | pāsyati | Future Verb (3rd Sg.) | will drink |
+| **पठिष्यति** | paṭhiṣyati | Future Verb (3rd Sg.) | will read |
 | **परश्वः** | paraśvaḥ | Avyaya (Time) | day after tomorrow |
+| **पुस्तिका** | pustikā | Noun (Fem.) | notebook |
+| **सोमवासरः** | somavāsaraḥ | Noun (Masc.) | Monday |
 | **श्वः** | śvaḥ | Avyaya (Time) | tomorrow |
 | **योजना** | yojanā | Noun (Fem.) | plan / scheme |
 
@@ -131,13 +152,19 @@ $$\begin{array}{|l|l|l|l|}
 
 ## 📝 अभ्यासः (Exercises)
 
-### Exercise 1: Form the Future Tense (लृट् लकारः) for 'अहम्' (1st Sg.) and 'वयम्' (1st Pl.)
-1. गम् (to go) $\rightarrow$ अहम् _________ | वयम् _________
-2. दृश् (to see) $\rightarrow$ अहम् _________ | वयम् _________
-3. कृ (to do) $\rightarrow$ अहम् _________ | वयम् _________
-4. पा (to drink) $\rightarrow$ अहम् _________ | वयम् _________
+### Exercise 1: Form the Future Tense (लृट् लकारः) for 'सः' (3rd Sg.), 'अहम्' (1st Sg.) and 'वयम्' (1st Pl.)
+1. गम् (to go) $\rightarrow$ सः _________ | अहम् _________ | वयम् _________
+2. दृश् (to see) $\rightarrow$ सः _________ | अहम् _________ | वयम् _________
+3. कृ (to do) $\rightarrow$ सः _________ | अहम् _________ | वयम् _________
+4. पा (to drink) $\rightarrow$ सः _________ | अहम् _________ | वयम् _________
 
-### Exercise 2: Translate into Spoken & Vlogging Sanskrit
+### Exercise 2: Translate into Spoken Sanskrit (Everyday Planning)
+1. Tomorrow I will go to the office.
+2. What will you do tomorrow?
+3. We will definitely meet in the evening.
+4. Tomorrow will be a holiday (*avakāśaḥ*).
+
+### Exercise 3: Vlogging & Trailer Announcements
 1. "Tomorrow in the upcoming vlog we will see a waterfall!"
 2. "We will definitely meet tomorrow evening at 7 o'clock."
 3. "I will travel to the mountains day after tomorrow."
@@ -148,12 +175,18 @@ $$\begin{array}{|l|l|l|l|}
 ## 🔑 Answers to Exercises
 
 ### Answers to Exercise 1:
-1. अहम् **गमिष्यामि** | वयम् **गमिष्यामः**
-2. अहम् **द्रक्ष्यामि** | वयम् **द्रक्ष्यामः**
-3. अहम् **करिष्यामि** | वयम् **करिष्यामः**
-4. अहम् **पास्यामि** | वयम् **पाम्यामः (पास्यामः)**
+1. सः **गमिष्यति** | अहम् **गमिष्यामि** | वयम् **गमिष्यामः**
+2. सः **द्रक्ष्यति** | अहम् **द्रक्ष्यामि** | वयम् **द्रक्ष्यामः**
+3. सः **करिष्यति** | अहम् **करिष्यामि** | वयम् **करिष्यामः**
+4. सः **पास्यति** | अहम् **पास्यामि** | वयम् **पास्यामः**
 
 ### Answers to Exercise 2:
+1. **श्वः अहम् कार्यालयम् गमिष्यामि।** (*Śvaḥ aham kāryālayam gamiṣyāmi.*)
+2. **श्वः भवान् किम् करिष्यति?** (*Śvaḥ bhavān kim kariṣyati?*)
+3. **वयम् सायङ्काले अवश्यम् मेलिष्यामः।** (*Vayam sāyaṅkāle avaśyam meliṣyāmaḥ.*)
+4. **श्वः अवकाशः भविष्यति।** (*Śvaḥ avakāśaḥ bhaviṣyati.*)
+
+### Answers to Exercise 3:
 1. **श्वः आगामि-दृश्यवृत्तान्ते वयं जलप्रपातं द्रक्ष्यामः!** (*Śvaḥ āgāmi-dṛśyavṛttānte vayaṃ jalaprapātaṃ drakṣyāmaḥ!*)
 2. **श्वः सायं सप्तवादने वयम् अवश्यं मेलिष्यामः।** (*Śvaḥ sāyaṃ saptavādane vayam avaśyaṃ meliṣyāmaḥ.*)
 3. **परश्वः अहम् पर्वतं गमिष्यामि।** (*Paraśvaḥ aham parvataṃ gamiṣyāmi.*)
