@@ -1,12 +1,12 @@
 # Day 002: सरल-वाक्यानि अकारान्त-पुल्लिङ्ग-शब्दाः च (Simple Sentences & Masculine Nouns ending in '-a')
 
-Welcome to Day 2 of your Sanskrit learning journey! Today, we will explore simple subject-verb sentences, understand how masculine nouns ending in '-a' are structured, and learn about subject-verb agreement.
+Welcome to Day 2 of your Sanskrit learning journey! Today, we explore everyday subject-verb sentences, understand how masculine nouns ending in '-a' (*akārānta-pulliṅga*) are structured, and master practical subject-verb agreement for daily speech.
 
 ---
 
 ## 🌟 Subhāṣitam (Good Saying of the Day)
 
-Let us begin with a beautiful verse that extols the sweetness and richness of the Sanskrit language.
+Let us begin with a beautiful verse that extols the sweetness and richness of the Sanskrit language:
 
 **संस्कृतम्:**
 > भाषासु मुख्या मधुरा दिव्या गीर्वाणभारती ।
@@ -14,7 +14,7 @@ Let us begin with a beautiful verse that extols the sweetness and richness of th
 
 **Transliteration (IAST):**
 > *bhāṣāsu mukhyā madhurā divyā gīrvāṇabhāratī |*
-> *tasyāṃ hi kāvyaṃ madhuraṃ tasmādapi subhāṣitam ||*
+> *tasyāṃ hi kāvyaṃ madhuraṃ tasmād api subhāṣitam ||*
 
 **English Translation:**
 > Among all languages, the primary, sweet, and divine is Sanskrit (the language of the gods). Verily, even sweeter than it is its poetry, and sweetest of all are its wise sayings (Subhashitas).
@@ -23,7 +23,7 @@ Let us begin with a beautiful verse that extols the sweetness and richness of th
 
 ## 📖 गद्य-पाठः (Gadhya Patha - Prose Reading)
 
-Read the following sentences and dialog. Focus on the relationship between who is performing the action and the verb form.
+Read the following sentences and dialogue. Focus on the relationship between who is performing the action and the verb form.
 
 ### **संभाषणम् (Conversation)**
 
@@ -61,15 +61,60 @@ Read the following sentences and dialog. Focus on the relationship between who i
 
 ---
 
+## 🗣️ व्यावहारिक-सम्भाषणम् (Everyday Action Sentences & Daily Roles)
+
+In daily life, we constantly talk about what different people do and where they are going.
+
+### 1. High-Frequency People & Professions (पुल्लिङ्ग-शब्दाः)
+
+| Masculine Noun | IAST | Daily Role / Profession | Action Sentence Example |
+| :--- | :--- | :--- | :--- |
+| **आपणिकः** | *āpaṇikaḥ* | Shopkeeper | आपणिकः वस्तु विक्रिणाति। (The shopkeeper sells goods.) |
+| **वैद्यः** | *vaidyaḥ* | Doctor | वैद्यः चिकित्सां करोति। (The doctor treats patients.) |
+| **चालकः** | *cālakaḥ* | Driver | चालकः यानं चालयति। (The driver drives the vehicle.) |
+| **अध्यापकः / शिक्षकः** | *adhyāpakaḥ / śikṣakaḥ* | Teacher | अध्यापकः पाठयति। (The teacher teaches.) |
+| **रक्षकः** | *rakṣakaḥ* | Guard / Police officer | रक्षकः रक्षति। (The guard protects.) |
+| **सेवकः** | *sevakaḥ* | Attendant / Helper | सेवकः कार्यं करोति। (The helper works.) |
+| **अग्रजः** | *agrajaḥ* | Elder brother | अग्रजः कार्यालयं गच्छति। (Elder brother goes to office.) |
+| **अनुजः** | *anujaḥ* | Younger brother | अनुजः क्रीडाङ्गणे क्रीडति। (Younger brother plays in playground.) |
+
+---
+
+### 2. Conversational Mini-Dialogues for Everyday Life
+
+#### Scenario A: Asking Someone What They Are Doing (किं करोषि?)
+* **मित्रम् (Friend 1):** हरिः ओम्! भवान् इदानीं किं करोति?
+  > *Hariḥ om! Bhavān idānīṃ kiṃ karoti?*
+  > *Hello! What are you doing right now?*
+* **त्वम् (Friend 2):** अहम् पुस्तकं पठामि। भवान् किं करोति?
+  > *Aham pustakaṃ paṭhāmi. Bhavān kiṃ karoti?*
+  > *I am reading a book. What are you doing?*
+* **मित्रम्:** अहम् आपणं (market) गच्छामि।
+  > *Aham āpaṇaṃ gacchāmi.*
+  > *I am going to the market.*
+
+#### Scenario B: Checking on Daily Activities at Home
+* **माता (Mother):** पुत्र! त्वं किं लिखसि?
+  > *Putra! Tvam kiṃ likhasi?*
+  > *Son! What are you writing?*
+* **पुत्रः (Son):** मातः! अहम् गृहकार्यं (homework) लिखामि।
+  > *Mātaḥ! Aham gṛhakāryaṃ likhāmi.*
+  > *Mother! I am writing my homework.*
+* **माता:** उत्तमम्! शीघ्रं समापय।
+  > *Uttamam! Śīghraṃ samāpaya.*
+  > *Excellent! Finish it quickly.*
+
+---
+
 ## 🔍 पदविभागः & अन्वयः (Word Breakdown & Prose Order)
 
 1. **अश्वः शीघ्रं धावति (aśvaḥ śīghraṃ dhāvati)**
-   - *Padavibhaga*: अश्वः (Horse) + शीघ्रम् (Fast / quickly) + धावति (runs)
-   - *Anvaya (Prose Order)*: Subject $\rightarrow$ Adverb $\rightarrow$ Verb (अश्वः शीघ्रं धावति)
+   * *Padavibhaga*: अश्वः (Horse) $+$ शीघ्रम् (Fast / quickly) $+$ धावति (runs)
+   * *Anvaya (Prose Order)*: Subject $\rightarrow$ Adverb $\rightarrow$ Verb (अश्वः शीघ्रं धावति)
 
 2. **त्वं पठसि वा? (tvaṃ paṭhasi vā?)**
-   - *Padavibhaga*: त्वम् (You) + पठसि (read) + वा (question particle)
-   - *Note*: Adding "वा" (vā) at the end of a statement turns it into a yes/no question, similar to "or?" or "is it so?" in English.
+   * *Padavibhaga*: त्वम् (You) $+$ पठसि (read) $+$ वा (question particle)
+   * *Note*: Adding "वा" (vā) at the end turns any statement into a smooth conversational Yes/No question!
 
 ---
 
@@ -84,7 +129,7 @@ Read the following sentences and dialog. Focus on the relationship between who i
 | **धावति** | dhāvati | Verb (3rd Person Sg.) | runs |
 | **गच्छति** | gacchati | Verb (3rd Person Sg.) | goes |
 | **जनकः** | janakaḥ | Noun (Masc. Nom. Sg.) | Father |
-| **कः** | kaḥ | Interrogative Pronoun (Masc. Nom. Sg.) | Who |
+| **कः** | kaḥ | Interrogative Pronoun (Masc. Nom. Sg.) | Who (male) |
 | **करोति** | karoti | Verb (3rd Person Sg. of *kṛ*) | does / makes |
 | **मन्दम्** | mandam | Adverb / Indeclinable | slowly |
 | **पुत्रः** | putraḥ | Noun (Masc. Nom. Sg.) | Son |
@@ -98,54 +143,47 @@ Read the following sentences and dialog. Focus on the relationship between who i
 ## 💡 व्याकरण-विशेषः (Grammatical Notes)
 
 ### 1. Masculine Nouns ending in '-a' (अकारान्त-पुल्लिङ्ग-शब्दाः)
-Most masculine Sanskrit nouns end in the short vowel **अ (a)** in their base form (called *Prātipadika*). For example:
-- **बालक** (bālaka)
-- **अश्व** (aśva)
-- **छात्र** (chātra)
-- **जनक** (janaka)
-
-When used as the **subject** of a sentence (Nominative Singular / Prathamā Vibhakti Ekavacana), we add the *visarga* (**ः**) to the ending:
-- बालक + ः = **बालकः** (a boy / the boy)
-- अश्व + ः = **अश्वः** (a horse / the horse)
-- छात्र + ः = **छात्रः** (a student / the student)
-
-*Note: You can refer to the [Noun Declensions Reference](file:///Users/karthikbhat003/Documents/Saskrit%20Learning/Reference/Vibhakti_Table_Noun_Declensions.md) to see how these nouns change in dual and plural.*
+Most masculine Sanskrit nouns end in the short vowel **अ (a)** in their dictionary stem:
+* बालक (bālaka) $\rightarrow$ **बालकः** (the boy)
+* छात्र (chātra) $\rightarrow$ **छात्रः** (the student)
+* आपणिक (āpaṇika) $\rightarrow$ **आपणिकः** (the shopkeeper)
 
 ### 2. Subject-Verb Agreement (कर्तृ-क्रिया-अन्वयः)
-In Sanskrit, the verb ending changes based on the **Person** (Puruṣa) of the subject:
-- **Third Person (Prathama Puruṣa)**: Used for *he, she, it, or any noun* (like boy, horse, teacher).
-  - Singular suffix: **-ति (-ti)**
-  - Examples: *bālakaḥ paṭhati* (The boy reads), *aśvaḥ dhāvati* (The horse runs).
-- **Second Person (Madhyama Puruṣa)**: Used for the informal "you" (**त्वम् - tvam**).
-  - Singular suffix: **-सि (-si)**
-  - Examples: *tvaṃ paṭhasi* (You read).
-- **First Person (Uttama Puruṣa)**: Used for "I" (**अहम् - aham**).
-  - Singular suffix: **-आमि (-āmi)**
-  - Examples: *ahaṃ paṭhāmi* (I read).
 
-Here is a summary table for singular agreement:
-
-| Subject (Karta) | Meaning | Verb Ending | Example (root: पठ्) |
-| :--- | :--- | :---: | :--- |
-| **बालकः / सः / एषः** | Boy / He / This (3rd Person) | **-ति** | बालकः पठति (The boy reads) |
-| **त्वम्** | You (2nd Person) | **-सि** | त्वं पठसि (You read) |
-| **अहम्** | I (1st Person) | **-आमि** | अहम् पठामि (I read) |
+| Subject (Karta) | Person | Verb Suffix | Example (root: गम् - to go) | Example (root: पठ् - to read) |
+| :--- | :--- | :---: | :--- | :--- |
+| **सः / बालकः / भवान्** | 3rd Person (प्रथम-पुरुषः) | **-ति (-ti)** | सः **गच्छति** (He goes) | बालकः **पठति** (Boy reads) |
+| **त्वम्** | 2nd Person (मध्यम-पुरुषः) | **-सि (-si)** | त्वं **गच्छसि** (You go) | त्वं **पठसि** (You read) |
+| **अहम्** | 1st Person (उत्तम-पुरुषः) | **-आमि (-āmi)**| अहम् **गच्छामि** (I go) | अहम् **पठामि** (I read) |
 
 ---
 
 ## 📝 अभ्यासः (Exercises)
 
-Test your understanding of today's lesson:
+### Exercise 1: Translate into Sanskrit for Spoken Practice
+1. The boy runs quickly.
+2. What are you (informal) doing? $\rightarrow$ I am reading.
+3. The teacher goes to school.
+4. "Are you going to the market?" (Use *vā*).
 
-1. **Translate the following sentences into Sanskrit:**
-   - The boy runs.
-   - The student walks slowly.
-   - I go.
-   - Who is going? (Hint: Use *kaḥ* and *gacchati*)
-   - "Do you go?" (Hint: Use *tvam*, *gacchasi* and the question particle *vā*)
+### Exercise 2: Fill in the blanks with the correct verb form
+1. सः शीघ्रं ___________ । (धावति / धावसि / धावामि)
+2. अहम् मन्दं ___________ । (चलति / चलसि / चलामि)
+3. त्वं गृहम् ___________ वा? (गच्छति / गच्छसि / गच्छामि)
+4. आपणिकः वस्तु ___________ । (विक्रिणाति / विक्रिणीषे)
 
-2. **Fill in the blanks with the correct form of the verb in brackets:**
-   - सः शीघ्रं ___________ । (धावति / धावसि / धावामि)
-   - अहम् मन्दं ___________ । (चलति / चलसि / चलामि)
-   - त्वं विद्यालयं ___________ वा? (गच्छति / गच्छसि / गच्छामि)
-   - छात्रः ___________ । (पठति / पठसि / पठामि)
+---
+
+## 🔑 Answers to Exercises
+
+### Answers to Exercise 1:
+1. **बालकः शीघ्रं धावति।** (*Bālakaḥ śīghraṃ dhāvati.*)
+2. **त्वं किं करोषि? $\rightarrow$ अहम् पठामि।** (*Tvaṃ kiṃ karoṣi? $\rightarrow$ Aham paṭhāmi.*)
+3. **शिक्षकः विद्यालयं गच्छति।** (*Śikṣakaḥ vidyālayaṃ gacchati.*)
+4. **त्वम् आपणं गच्छसि वा?** (*Tvam āpaṇaṃ gacchasi vā?*)
+
+### Answers to Exercise 2:
+1. सः शीघ्रं **धावति**।
+2. अहम् मन्दं **चलामि**।
+3. त्वं गृहम् **गच्छसि** वा?
+4. आपणिकः वस्तु **विक्रिणाति**।

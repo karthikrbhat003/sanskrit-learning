@@ -1,12 +1,12 @@
-# Day 001: प्रथमः परिचयः (First Introduction)
+# Day 001: प्रथमः परिचयः (First Introduction & Everyday Greetings)
 
-Welcome to your first day of learning Sanskrit! Today we will start with basic greetings, introduction of names, polite address, and simple present-tense sentences.
+Welcome to your first day of learning Sanskrit! Today we will start with basic greetings, introduction of names, polite address, essential etiquette phrases, and simple present-tense sentences for everyday conversations.
 
 ---
 
 ## 🌟 Subhāṣitam (Good Saying of the Day)
 
-Let us begin with a motivational verse that emphasizes the value of active effort in learning and life.
+Let us begin with a motivational verse that emphasizes the value of active effort in learning and life:
 
 **संस्कृतम्:**
 > उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः ।
@@ -17,7 +17,7 @@ Let us begin with a motivational verse that emphasizes the value of active effor
 > *na hi suptasya siṃhasya praviśanti mukhe mṛgāḥ ||*
 
 **English Translation:**
-> Tasks are accomplished only by effort, not by mere desires. Verily, animals do not enter the mouth of a sleeping lion on their own accord.
+> Tasks are accomplished only through purposeful effort, never by mere daydreaming. Verily, deer do not walk into the mouth of a sleeping lion on their own!
 
 ---
 
@@ -25,11 +25,11 @@ Let us begin with a motivational verse that emphasizes the value of active effor
 
 Read the dialogue below between two individuals, Rama (रामः) and Hari (हरिः), meeting for the first time.
 
-### **संभाषणम् (Conversation)**
+### **संभाषणम् (Introductory Conversation)**
 
-**रामः:** हरिः ओम्। मम नाम रामः। तव नाम किम्?
-> *Rāmaḥ: Hariḥ om. Mama nāma Rāmaḥ. Tava nāma kim?*
-> **Rama:** Hello. My name is Rama. What is your name?
+**रामः:** हरिः ओम्। नमस्ते। मम नाम रामः। भवतो नाम किम्?
+> *Rāmaḥ: Hariḥ om. Namaste. Mama nāma Rāmaḥ. Bhavato nāma kim?*
+> **Rama:** Hello. Greetings. My name is Rama. What is your name? (to a male)
 
 **हरिः:** हरिः ओम्। मम नाम हरिः।
 > *Hariḥ: Hariḥ om. Mama nāma Hariḥ.*
@@ -37,32 +37,87 @@ Read the dialogue below between two individuals, Rama (रामः) and Hari (�
 
 **रामः:** भवान् कथम् अस्ति?
 > *Rāmaḥ: Bhavān katham asti?*
-> **Rama:** How are you? (to a male)
+> **Rama:** How are you? (addressed to a male)
 
-**हरिः:** अहम् कुशलः अस्मि। भवान् कथम् अस्ति?
-> *Hariḥ: Aham kuśalaḥ asmi. Bhavān katham asti?*
-> **Hari:** I am well. How are you?
+**हरिः:** अहम् सम्यक् (कुशलः) अस्मि। भवान् कथम् अस्ति?
+> *Hariḥ: Aham samyak (kuśalaḥ) asmi. Bhavān katham asti?*
+> **Hari:** I am doing very well. How are you?
 
 **रामः:** अहम् अपि कुशलः अस्मि। एषः मम मित्रम्। एतस्य नाम गणेशः।
 > *Rāmaḥ: Aham api kuśalaḥ asmi. Eṣaḥ mama mitram. Etasya nāma Gaṇeśaḥ.*
 > **Rama:** I am also well. This is my friend. His name is Ganesha.
 
-**हरिः:** नमस्कारः, गणेश!
-> *Hariḥ: Namaskāraḥ, Gaṇeśa!*
-> **Hari:** Greetings, Ganesha!
+**हरिः:** नमस्कारः, गणेश! स्वागतम्!
+> *Hariḥ: Namaskāraḥ, Gaṇeśa! Svāgatam!*
+> **Hari:** Greetings, Ganesha! Welcome!
+
+---
+
+## 🗣️ व्यावहारिक-सम्भाषणम् (Daily Life Spoken Sanskrit & Etiquette)
+
+To speak Sanskrit fluently in day-to-day life, memorize these essential social formulas used by contemporary Sanskrit speakers (*सम्भाषण-संस्कृतम्*):
+
+### 1. Daily Greetings & Politeness Formulas (शिष्टाचार-वाक्यानि)
+
+| Sanskrit (Devanāgarī) | IAST Transliteration | English Meaning | When to Use |
+| :--- | :--- | :--- | :--- |
+| **हरिः ओम्** | *Hariḥ om* | Hello / Greetings | General universal greeting (in person or on phone) |
+| **नमस्ते / नमस्कारः** | *Namaste / Namaskāraḥ* | Greetings / Salutations | Standard respectful greeting |
+| **सुप्रभातम्** | *Suprabhātam* | Good morning | Morning greeting |
+| **शुभमध्याह्नम्** | *Śubhamadhyāhnam* | Good afternoon | Afternoon greeting |
+| **शुभसायम्** | *Śubhasāyam* | Good evening | Evening greeting |
+| **शुभरात्रिः** | *Śubharātriḥ* | Good night | Before going to sleep / parting at night |
+| **धन्यवादः** | *Dhanyavādaḥ* | Thank you | Expressing gratitude |
+| **स्वागतम्** | *Svāgatam* | You are welcome / Welcome | Welcoming a guest or responding to "Thank you" |
+| **क्षम्यताम्** | *Kṣamyatām* | Excuse me / I am sorry | Apologizing or politely getting someone's attention |
+| **चिन्ता मास्तु** | *Cintā māstu* | Don't worry / It's fine / No problem | Reassuring someone in casual conversation |
+| **कृपया** | *Kṛpayā* | Please | Making a polite request |
+| **पुनर्दर्शनाय / पुनर्द्रक्ष्यामः** | *Punardarśanāya / Punardrakṣyāmaḥ* | See you again / Goodbye | Parting ways |
+| **साधु / उत्तमम्** | *Sādhu / Uttamam* | Great! / Well done! / Excellent! | Expressing approval or praise |
+| **आम् / न** | *Ām / Na* | Yes / No | Affirmation and negation |
+
+---
+
+### 2. Conversational Mini-Dialogues for Day-to-Day Life
+
+#### Scenario A: Greeting a Female Colleague (प्रिया & राधा)
+* **प्रिया:** नमो नमः राधे! सुप्रभातं भवती कथम् अस्ति?
+  > *Priyā: Namo namaḥ Rādhe! Suprabhātaṃ bhavatī katham asti?*
+  > *Priya: Hello Radha! Good morning, how are you? (to female)*
+* **राधा:** सुप्रभातं प्रिये! अहम् आनन्दिता अस्मि। भवती कथम् अस्ति?
+  > *Rādhā: Suprabhātaṃ Priye! Aham ānanditā asmi. Bhavatī katham asti?*
+  > *Radha: Good morning Priya! I am joyful/well. How are you?*
+* **प्रिया:** अहम् अपि कुशलिनी अस्मि। धन्यवादः!
+  > *Priyā: Aham api kuśalinī asmi. Dhanyavādaḥ!*
+  > *Priya: I am also doing fine. Thank you!*
+
+#### Scenario B: Introducing Family Members
+* **अजयः:** एषः मम जनकः (पिता)। एतस्य नाम सुरेशः।
+  > *Ajayaḥ: Eṣaḥ mama janakaḥ (pitā). Etasya nāma Sureśaḥ.*
+  > *Ajay: This is my father. His name is Suresh.*
+* **विजयः:** नमस्कारः महाभाग! मम नाम विजयः।
+  > *Vijayaḥ: Namaskāraḥ mahābhāga! Mama nāma Vijayaḥ.*
+  > *Vijay: Greetings respected sir! My name is Vijay.*
+* **अजयः:** एषा मम जननी (माता)। एतस्याः नाम कमला।
+  > *Ajayaḥ: Eṣā mama jananī (mātā). Etasyāḥ nāma Kamalā.*
+  > *Ajay: This is my mother. Her name is Kamala.*
+* **विजयः:** मातर्जन्मामि (मातः प्रणमामि)।
+  > *Vijayaḥ: Mātaḥ praṇamāmi.*
+  > *Vijay: Mother, I bow to you.*
 
 ---
 
 ## 🔍 पदविभागः & अन्वयः (Word Breakdown & Prose Order)
 
-Let's break down some key phrases to see how they are structured:
+Let's break down key introductory templates:
 
-1.  **मम नाम रामः (mama nāma rāmaḥ)**
-    *   *Padavibhaga*: मम (My) + नाम (Name) + रामः (Rama)
-    *   *Literal translation*: "My name Rama." (In Sanskrit, the verb 'is' - *asti* - is often implied and can be omitted in simple present-tense declarations).
-2.  **भवान् कथम् अस्ति? (bhavān katham asti?)**
-    *   *Anvaya (Prose Order)*: Subject $\rightarrow$ Adverb $\rightarrow$ Verb
-    *   *Order*: भवान् (You) + कथम् (How) + अस्ति (are)?
+1. **मम नाम रामः (mama nāma rāmaḥ)**
+   * *Padavibhaga*: मम (My) $+$ नाम (Name) $+$ रामः (Rama)
+   * *Literal translation*: "My name Rama." (In Sanskrit, the verb 'is' - *asti* - is often implied in nominal identity clauses).
+2. **भवतः नाम किम्? (bhavataḥ nāma kim?)**
+   * भवतः (Your - male) $+$ नाम (name) $+$ किम् (what?)
+3. **भवत्याः नाम किम्? (bhavatyāḥ nāma kim?)**
+   * भवत्याः (Your - female) $+$ नाम (name) $+$ किम् (what?)
 
 ---
 
@@ -72,18 +127,22 @@ Let's break down some key phrases to see how they are structured:
 | :--- | :--- | :--- | :--- |
 | **मम** | mama | Pronoun (Genitive of *asmad*) | My / of me |
 | **तव** | tava | Pronoun (Genitive of *yuṣmad*) | Your / of you (informal) |
+| **भवतः** | bhavataḥ | Pronoun (Genitive Masc. polite) | Your (polite - male) |
+| **भवत्याः** | bhavatyāḥ | Pronoun (Genitive Fem. polite) | Your (polite - female) |
 | **नाम** | nāma | Noun (Neuter, Nominative Sg.) | Name |
 | **किम्** | kim | Interrogative Pronoun (Neut. Sg.) | What / Who |
-| **भवान्** | bhavān | Pronoun (Masc. Nominative Sg.) | You (polite/respectful - used for males) |
+| **भवान्** | bhavān | Pronoun (Masc. Nominative Sg.) | You (polite - male) |
+| **भवती** | bhavatī | Pronoun (Fem. Nominative Sg.) | You (polite - female) |
 | **कथम्** | katham | Indeclinable (Avyaya) | How |
 | **अस्ति** | asti | Verb (3rd Person Singular of *as*) | is / exists |
 | **अहम्** | aham | Pronoun (Nominative Sg. of *asmad*) | I |
-| **कुशलः** | kuśalaḥ | Adjective / Noun (Masc. Sg.) | Well / healthy / doing good |
+| **कुशलः / कुशला** | kuśalaḥ / kuśalā | Adjective (Masc. / Fem.) | Well / healthy / fine |
 | **अस्मि** | asmi | Verb (1st Person Singular of *as*) | [I] am |
 | **अपि** | api | Indeclinable (Avyaya) | Also / too |
-| **एषः** | eṣaḥ | Pronoun (Masc. Sg. pointing nearby) | This (he / this one) |
+| **एषः / एषा** | eṣaḥ / eṣā | Pronoun (Masc. / Fem. nearby) | This (he / she) |
 | **मित्रम्** | mitram | Noun (Neuter, Nominative Sg.) | Friend |
-| **एतस्य** | etasya | Pronoun (Masc. Genitive Sg.) | His / of this one |
+| **धन्यवादः** | dhanyavādaḥ | Noun (Masc.) | Thank you |
+| **स्वागतम्** | svāgatam | Noun (Neut.) | Welcome |
 
 ---
 
@@ -91,26 +150,40 @@ Let's break down some key phrases to see how they are structured:
 
 ### 1. The Verb "To Be" (अस् - as)
 In the conversation, we saw two forms of the verb root **अस् (as)** (to be):
-*   **अस्ति (asti)**: "He/She/It is" $\rightarrow$ Used with 3rd person subjects like *bhavān* (you - polite), *Rāmaḥ*, *Gaṇeśaḥ*, or *eṣaḥ*.
-*   **अस्मि (asmi)**: "I am" $\rightarrow$ Used exclusively with the 1st person pronoun **अहम् (aham)**.
+* **अस्ति (asti)**: "He/She/It is" $\rightarrow$ Used with 3rd person subjects like *bhavān* (you - polite), *Rāmaḥ*, *Gaṇeśaḥ*, or *eṣaḥ*.
+* **अस्मि (asmi)**: "I am" $\rightarrow$ Used exclusively with the 1st person pronoun **अहम् (aham)**.
 
-### 2. Saying "You" Politely
-Sanskrit has two ways to say "you":
-1.  **त्वम् (tvam)**: Informal/Equal status (e.g., to a close friend or child). We conjugate verbs in the 2nd person (Madhyama Purusha) with this: *tvam asi* (You are).
-2.  **भवान् (bhavān - Masculine)** / **भवती (bhavatī - Feminine)**: Polite and respectful (used in standard adult conversations). Grammatically, these are treated as **3rd person** subjects. Thus, we say:
-    *   *Bhavān asti* (You are - male)
-    *   *Bhavatī asti* (You are - female)
+### 2. Addressing "You" in Spoken Sanskrit
+Sanskrit has distinct, nuanced ways to address people:
+1. **त्वम् (tvam)**: Informal (close friends, younger siblings, children).
+2. **भवान् (bhavān - Masc.)** / **भवती (bhavatī - Fem.)**: Standard polite address (adults, colleagues, strangers, teachers). These take **3rd person verb forms** (*bhavān asti*, *bhavatī asti*).
 
 ---
 
 ## 📝 अभ्यासः (Exercises)
 
-Try to answer the following questions (you can check your answers or write them in your notebook):
+### Exercise 1: Translate into Sanskrit for Spoken Practice
+1. "Good morning! My name is Dev."
+2. "How are you (polite female)?" $\rightarrow$ "I am doing fine."
+3. "Excuse me, thank you!"
+4. "Don't worry, see you again!"
 
-1.  **Translate into Sanskrit:**
-    *   "My name is Hari."
-    *   "How are you?" (addressed respectfully to a female, using *bhavatī*).
-    *   "I am also well."
-2.  **Identify the correct verb form:**
-    *   अहम् कुशलः _________ (अस्ति / अस्मि / भवति) ?
-    *   सः रामः _________ (अस्ति / अस्मि) ?
+### Exercise 2: Choose the correct word
+1. भवान् कथम् _________ (अस्मि / अस्ति)?
+2. अहम् कुशलः _________ (अस्मि / अस्ति)।
+3. भवत्याः नाम _________ (किम् / कथम्)?
+
+---
+
+## 🔑 Answers to Exercises
+
+### Answers to Exercise 1:
+1. **सुप्रभातम्! मम नाम देवः।** (*Suprabhātam! Mama nāma Devaḥ.*)
+2. **भवती कथम् अस्ति?** $\rightarrow$ **अहम् कुशलिनी अस्मि।** (*Bhavatī katham asti? $\rightarrow$ Aham kuśalinī asmi.*)
+3. **क्षम्यताम्, धन्यवादः!** (*Kṣamyatām, dhanyavādaḥ!*)
+4. **चिन्ता मास्तु, पुनर्द्रक्ष्यामः!** (*Cintā māstu, punardrakṣyāmaḥ!*)
+
+### Answers to Exercise 2:
+1. भवान् कथम् **अस्ति**?
+2. अहम् कुशलः **अस्मि**।
+3. भवत्याः नाम **किम्**?
