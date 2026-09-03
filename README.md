@@ -1,21 +1,6 @@
 # संस्कृत-शिक्षणम् (Sanskrit Learning Dashboard)
 
-Welcome to your daily Sanskrit learning workspace! This dashboard is designed to track your progress and serve as a central hub for grammar references, vocabulary lists, and daily lessons.
-
----
-
-## 📊 Learning Progress
-
-*   **Current Lesson**: [Day 002 - Simple Sentences & Masculine Nouns](./Lessons/Day_002_Simple_Sentences_and_Masculine_Nouns.md)
-*   **Status**: 🟦 In Progress (Day 2)
-*   **Last Updated**: 2026-08-23
-
-### Quick Stats
-| Metric | Count | Details |
-| :--- | :---: | :--- |
-| **All Phases 1–4 Status** | `35 / 35 Lessons Ready` | Full Curriculum: Foundations to Classical Literature |
-| **Active Vocabulary** | `290+ words` | Fully indexed with IAST & daily spoken definitions in Glossary |
-| **Grammar & Speech** | `35+ Modules` | 8 Cases, 5 Lakāras, Daily Conversational Dialogues & Etiquette |
+Welcome to your comprehensive Sanskrit learning workspace! This repository serves as a central hub for grammar references, cumulative vocabulary glossaries, spoken & vlogging scripts, and complete daily lessons across all 4 phases.
 
 ---
 
@@ -28,11 +13,13 @@ Access these sheets anytime you need to look up a rule, spelling, or declension 
 *   **[Verb Conjugations (Dhatu Rupa)](./Reference/Dhatu_Rupa_Verb_Conjugations.md)**: Verb tables for various tenses (Lakāras).
 
 ### 📖 Vocabulary Hub
-*   **[Cumulative Glossary](./Vocabulary/Cumulative_Glossary.md)**: A running dictionary of all words introduced in the lessons.
+*   **[Cumulative Glossary](./Vocabulary/Cumulative_Glossary.md)**: A running dictionary of all words introduced in the lessons, sorted alphabetically by Sanskrit Varṇamālā with clickable lesson links.
 
-### 📝 Lessons Directory
+---
 
-#### 🔷 Phase 1: Foundations (Days 1–5 & Daily Actions Masterclass)
+## 📝 Lessons Directory
+
+### 🔷 Phase 1: Foundations (Days 1–5 & Daily Actions Masterclass)
 *   **[Day 001: Prathama Parichaya](./Lessons/Day_001_Prathama_Parichaya.md)** (First steps, greetings, and basic pronoun-verb pairs)
 *   **[Day 002: Simple Sentences & Masculine Nouns](./Lessons/Day_002_Simple_Sentences_and_Masculine_Nouns.md)** (Subject-verb agreement and masculine $a$-ending nouns)
 *   **[Day 003: Feminine & Neuter Nouns](./Lessons/Day_003_Feminine_and_Neuter_Nouns.md)** (Feminine $ā$/$ī$-ending and neuter nouns with matching pronouns)
@@ -40,19 +27,19 @@ Access these sheets anytime you need to look up a rule, spelling, or declension 
 *   **[Day 005: Present Tense & Phase 1 Mastery](./Lessons/Day_005_Present_Tense_Lat_Lakara_and_Phase1_Review.md)** (Complete 3x3 Laṭ Lakāra conjugation matrix and comprehensive review)
 *   **[Day 005B: Master Guide to Daily Actions](./Lessons/Day_005B_Comprehensive_Daily_Life_Actions.md)** (Exhaustive directory: swimming, walking, dancing, bathing, cooking, jumping, dressing & bodily actions)
 
-#### 🔷 Phase 2: The 8 Noun Cases (Days 6–15)
+### 🔷 Phase 2: The 8 Noun Cases (Days 6–15)
 *   **[Day 006: Prathamā Vibhakti](./Lessons/Day_006_Prathama_Vibhakti_Nominative_Case.md)** (Nominative Case — Subject role & Kartṛ Kāraka)
 *   **[Day 007: Dvitīyā Vibhakti](./Lessons/Day_007_Dvitiya_Vibhakti_Accusative_Case.md)** (Accusative Case — Direct Object & Destination)
 *   **[Day 008: Tṛtīyā Vibhakti](./Lessons/Day_008_Tritiya_Vibhakti_Instrumental_Case.md)** (Instrumental Case — Means, By/With & Accompaniment)
 *   **[Day 009: Caturthī Vibhakti](./Lessons/Day_009_Chaturthi_Vibhakti_Dative_Case.md)** (Dative Case — Purpose, Giving & Salutations)
 *   **[Day 010: Pañcamī Vibhakti](./Lessons/Day_010_Panchami_Vibhakti_Ablative_Case.md)** (Ablative Case — Source, Departure, Fear & Comparison)
-*   **[Day 011: Ṣaṣṭhī Vibhakti](./Lessons/Day_011_Shashthi_Vibhakti_Genitive_Case.md)** (Genitive Case — Possession, Relations & Positional Adverbs)
+*   **[Day 011: Ṣaṣठhī Vibhakti](./Lessons/Day_011_Shashthi_Vibhakti_Genitive_Case.md)** (Genitive Case — Possession, Relations & Positional Adverbs)
 *   **[Day 012: Saptamī Vibhakti](./Lessons/Day_012_Saptami_Vibhakti_Locative_Case.md)** (Locative Case — In/On/At, Time, Trust & Proficiency)
 *   **[Day 013: Sambodhana Vibhakti](./Lessons/Day_013_Sambodhana_Vocative_Case.md)** (Vocative Case — Direct Address & Invocation)
 *   **[Day 014: Kāraka Synthesis](./Lessons/Day_014_Karaka_Synthesis_and_Case_Integration.md)** (The 6 Kārakas & Master All-Case Sentence Anatomy)
 *   **[Day 015: Phase 2 Review & Story Reading](./Lessons/Day_015_Phase2_Review_and_Story_Comprehension.md)** (Panchatantra fable reading and comprehensive case analysis)
 
-#### 🔷 Phase 3: Verb Extensions, Lakāras & Avyayas (Days 16–25)
+### 🔷 Phase 3: Verb Extensions, Lakāras & Avyayas (Days 16–25)
 *   **[Day 016: Past Tense (Laṅ) - Part 1](./Lessons/Day_016_Past_Tense_Lang_Lakara_Part1.md)** (3rd Person past tense & the 'sma' habitual construction)
 *   **[Day 017: Past Tense (Laṅ) - Part 2](./Lessons/Day_017_Past_Tense_Lang_Lakara_Part2.md)** (Full 3x3 past tense matrix including 1st & 2nd persons)
 *   **[Day 018: Past Tense Narratives](./Lessons/Day_018_Past_Tense_Narratives_and_Storytelling.md)** (Continuous storytelling with 'The Thirsty Crow' fable)
@@ -64,7 +51,7 @@ Access these sheets anytime you need to look up a rule, spelling, or declension 
 *   **[Day 024: Foundational Sandhi](./Lessons/Day_024_Foundational_Sandhi_Rules.md)** (Core vowel junctions: Dīrgha, Guṇa, Vṛddhi, Yaṇ)
 *   **[Day 025: Phase 3 Synthesis & Review](./Lessons/Day_025_Phase3_Lakara_and_Grammar_Mastery.md)** (The 4 core Lakāras synthesis and 'Swans & Turtle' fable)
 
-#### 🔷 Phase 4: Classical Literature & Advanced Syntax (Days 26–35)
+### 🔷 Phase 4: Classical Literature & Advanced Syntax (Days 26–35)
 *   **[Day 026: Lion & Mouse (Panchatantra)](./Lessons/Day_026_Panchatantra_Lion_and_Mouse_Anvaya.md)** (Anvaya syntactic reordering and Padaccheda techniques)
 *   **[Day 027: Brahmana & Mongoose (Panchatantra)](./Lessons/Day_027_Panchatantra_Brahmana_and_Mongoose_Ktva.md)** (Mastering the Ktvā gerund participle: gatvā, dṛṣṭvā, śrutvā)
 *   **[Day 028: Monkey & Crocodile (Panchatantra)](./Lessons/Day_028_Panchatantra_Monkey_and_Crocodile_Tumun.md)** (Tumun infinitives of purpose: gantum, khāditum, draṣṭum)
@@ -80,7 +67,7 @@ Access these sheets anytime you need to look up a rule, spelling, or declension 
 
 ## 🗺️ Syllabus Roadmap
 
-### 🔷 Phase 1: Foundations (Days 1–5 & Daily Actions Masterclass) · `Complete`
+### 🔷 Phase 1: Foundations (Days 1–5 & Daily Actions Masterclass)
 *Focus: Sentence structure, essential pronouns, present tense, and complete directory of daily human actions.*
 
 * **Day 1**: Pronouns (*saḥ, eṣaḥ, aham, bhavān/bhavatī*) & "To Be" verbs (*asti, bhavati*)
@@ -92,7 +79,7 @@ Access these sheets anytime you need to look up a rule, spelling, or declension 
 
 ---
 
-### 🔷 Phase 2: The 8 Noun Cases (Days 6–15) · `Complete`
+### 🔷 Phase 2: The 8 Noun Cases (Days 6–15)
 *Focus: Master noun declensions (Vibhaktis) across all genders.*
 
 * **Days 6–7**: **Cases 1 & 2** — Nominative (*Subject*) & Accusative (*Direct Object*)
@@ -103,7 +90,7 @@ Access these sheets anytime you need to look up a rule, spelling, or declension 
 
 ---
 
-### 🔷 Phase 3: Verbs, Lakāras & Particles (Days 16–25) · `Complete`
+### 🔷 Phase 3: Verbs, Lakāras & Particles (Days 16–25)
 *Focus: Tenses, mood variations, indeclinables (Avyayas), and foundational Sandhi.*
 
 * **Days 16–18**: **Past Tense** (*laṅ lakāra*) — Narrative storytelling
@@ -114,7 +101,7 @@ Access these sheets anytime you need to look up a rule, spelling, or declension 
 
 ---
 
-### 🔷 Phase 4: Classical Literature & Prose (Days 26–35) · `Complete`
+### 🔷 Phase 4: Classical Literature & Prose (Days 26–35)
 *Focus: Reading authentic Sanskrit stories, epics, and verses with syntactic parsing (Anvaya).*
 
 * **Days 26–30**: **Panchatantra Fables** — Participles (*Ktvā, Tumun, Lyap, Shatṛ*) & prose order
@@ -124,14 +111,12 @@ Access these sheets anytime you need to look up a rule, spelling, or declension 
 
 ---
 
-## 🚀 How to Learn Daily
+## 🚀 How to Study Daily
 
-1.  Open the day's lesson file (e.g., [Day 001](./Lessons/Day_001_Prathama_Parichaya.md)).
+1.  Open any day's lesson file (e.g., [Day 001](./Lessons/Day_001_Prathama_Parichaya.md)).
 2.  Read the **Subhashita** (quote) to warm up.
 3.  Read the **Gadhya Patha** (prose passage) in Sanskrit, transliteration, and English.
-4.  Go through the **Padavibhaga** (word breakdown) and **Shabda Kosha** (vocabulary) to understand how the sentence is constructed.
-5.  Study the **Vyakarana Vishesha** (grammar notes) to understand the underlying rules.
-6.  Complete the **Abhyasa** (exercises) in your mind or as notes.
-7.  **To get the next lesson**: Simply prompt me:
-    > *"Give me a gadhya patha today as a continuation"*
-    I will automatically inspect this workspace, read the metadata to see your progress, update the files, and write the next lesson (Day 002, Day 003, etc.) for you!
+4.  Explore the **Everyday Situational Conversations** and **Vlogging scripts** to practice spoken Sanskrit.
+5.  Go through the **Padavibhaga** (word breakdown) and **Shabda Kosha** (vocabulary) to understand how the sentence is constructed.
+6.  Study the **Vyakarana Vishesha** (grammar notes) to understand the underlying rules.
+7.  Complete the **Abhyasa** (exercises) and check the **Answers Key**.
